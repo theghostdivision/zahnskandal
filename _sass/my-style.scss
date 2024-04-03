@@ -1,0 +1,93 @@
+.dl-table {
+  a {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-underline-offset: .8rem;
+    }
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      padding-bottom: .45rem;
+    }
+  }
+
+  .btn, .gumroad-button {
+    margin: 1rem 0;
+  }
+}
+
+.sidebar a::after {
+  color: white!important;
+}
+
+br {
+  display: block;
+  content: "";
+  border-bottom: 10px solid transparent;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin: 1rem 0 1rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+  margin: 1rem 0 1rem;
+}
+
+hr {
+  margin: 0;
+}
+
+ul {
+  margin-bottom: 1.25rem;
+}
+
+.content {
+  padding: 6.5rem 1rem 12rem;
+}
+
+.footnotes {
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+.fine {
+  color: white;
+}
+
+.home-message-special {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.icon-github {
+  color: white;
+}
+
+.mb6 {
+  margin-bottom: 0;
+}
+
+.nav-span {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: grey;
+}
+
+.page>header {
+  display: none;
+}
+
+.sidebar-nav>ul {
+  margin-bottom: 0;
+}
+
+.sidebar-social>ul>li>a {
+  height: 3.5rem;
+}
+
+@media screen and (min-width: 1664px)
+{
+  main {
+      padding-bottom: 150px;
+  }
+}
