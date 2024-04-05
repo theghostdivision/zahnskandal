@@ -44,6 +44,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache"
+  gem "jekyll-algolia", "~> 1.7"
 
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"
@@ -59,5 +60,3 @@ gem "jekyll-remote-theme", "~> 0.4.3"
 gem "jemoji", "~> 0.13.0"
 
 gem "jekyll-avatar", "~> 0.8.0"
-
-gem "jekyll-algolia", "~> 1.7"
