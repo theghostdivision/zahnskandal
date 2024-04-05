@@ -57,3 +57,5 @@ gem "tzinfo-data" if Gem.win_platform?
 gem "jekyll-remote-theme", "~> 0.4.3"
 
 gem "jemoji", "~> 0.13.0"
+
+gem "jekyll-avatar", "~> 0.8.0"
