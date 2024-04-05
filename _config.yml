@@ -310,6 +310,7 @@ include:
 # ----------------------------------------------------------------------------------------
 
 plugins:
+  - jekyll-algolia
   - jekyll-avatar
   - jekyll-default-layout
   - jekyll-feed
