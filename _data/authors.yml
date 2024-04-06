@@ -7,16 +7,17 @@ author:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
+  about:
+    <b>The Nick</b><br/>
     Der Mensch ist des Menschen größter Feind!
     
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/teeth/destroyed-crown-tooth-1.png
+    path:            /assets/img/avatars/the-devil-in-disguise.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/teeth/destroyed-crown-tooth-1.png
-      2x:            /assets/img/teeth/destroyed-crown-tooth-1.png
+      1x:            /assets/img/avatars/the-devil-in-disguise.png
+      2x:            /assets/img/avatars/the-devil-in-disguise.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
