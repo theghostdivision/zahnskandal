@@ -154,9 +154,9 @@ kramdown:
 # ----------------------------------------------------------------------------------------
 
 algolia:
-  application_id: 6H2JGBG86V
-  index_name: zahnskandal
-  search_only_api_key: 6e146271852acd8912a4f1fda7613b2e
+  application_id: "6H2JGBG86V"
+  index_name: "zahnskandal"
+  search_only_api_key: "6e146271852acd8912a4f1fda7613b2e"
 
 lightbox: true
 
