@@ -17,6 +17,10 @@
   color: white!important;
 }
 
+a[href*="://github.githubassets.com/"]:not(.no-mark-external):not(.no-mark)::after {
+  display: none;
+}
+
 br {
   display: block;
   content: "";
