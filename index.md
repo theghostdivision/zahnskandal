@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Der Zahnskandal
+title: Intro
 sitemap: true
 description: >
   Der Zahnskandal in der Metropolregion Stuttgart - erfahren Sie exklusiv die verheimlichten skandalösen Hintergründe warum Patienten nun bis zu 80km zum Notdienst fahren müssen.
