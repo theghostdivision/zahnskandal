@@ -9,7 +9,7 @@ cover: true
 
 # Home
 
-## Die Blutfestspiele - das Finale einer Tragödie in 5 Akten
+## Der Zahnskandal - Die Historie einer Katastrophe!
 
 + this list will be replaced by the toc
 {:toc .large-only}
