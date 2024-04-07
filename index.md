@@ -29,10 +29,7 @@ Anfang 2022 wurde die zahnärztliche Notdienstversorgung neu geregelt[^1] und di
 
 Bei den beiden Artikeln handelte es sich um kritische Artikel, die möglicherweise - laut unseren Informationen - noch deutlich kritischer hätten ausfallen können, wenn nicht <<interveniert>> worden wäre und selbst die verhältnismässig harmlose Kritik wurde an der Verbreitung gehindert durch die Paywall.
 
-Wie sah konkret die <<Intervention>> aus? Details wird man dazu nicht erfahren, aber jedem ist bekannt, dass unliebsame Artikel nicht auf der Wunschliste der Politik stehen. Sollte die Frage kommen, ob die sogenannte Intervention illegal war, dann ist die Antwort ein klares "Nein" - nennen Sie es einfach sanften Druck. Wir haben keine Informationen, dass es illegale Interventionen gab. Man bezeichnet einen Artikel als nicht hilfreich, fragt sich, wieso andere Artikel hinter einer Bezahlschranke liegen, stellt dies als eine mögliche Belastung der Kommunikation dar, das Übliche eben.
-
-**<<Wir spielen mit offenen Karten>>**
- {:.text-align-center}
+Wie sah konkret die <<Intervention>> aus? Details wird man dazu nicht erfahren, aber jedem ist bekannt, dass unliebsame Artikel nicht auf der Wunschliste der Politik stehen. Sollte die Frage kommen, ob die sogenannte Intervention illegal war, dann ist dei Antwort ein klares "Nein" - nennen Sie es einfach sanften Druck. Wir haben keine Informationen, dass es illegale Interventionen gab. Man bezeichnet einen Artikel als nicht hilfreich, fragt sich, wieso andere Artikel hinter einer Bezahlschranke liegen, stellt dies als eine mögliche Belastung der Kommunikation dar, das Übliche eben.
 
 Einen Monat später gab es einen weiteren Artikel und dieser soll nicht verheimlicht werden. Ein Artikel der Backnanger Kreiszeitung und diesmal selbstverständlich ohne Paywall, wie es heutzutage Usus ist bei positiven Artikeln, [*Im Notfall nach Stuttgart zum Zahnarzt*](https://www.bkz.de/nachrichten/im-notfall-nach-stuttgart-zum-zahnarzt-132874.html){:target="_blank"}.
 
