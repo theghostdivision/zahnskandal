@@ -41,16 +41,15 @@ Einen Monat später gab es einen weiteren Artikel und dieser soll nicht verheiml
 
 Insbesondere die letzte Behauptung ist nicht korrekt bzw. irreführend, denn das war die sog. Präsenzpflicht und selbstverständlich musste der Zahnarzt nachts in die Praxis um dort einen Schmerzpatienten zu behandeln, er hatte abseits der Präsenzzeiten nur keine Präsenzpflicht, alles andere ist ein urbaner Mythos. Ebenso ist es selbstverständlich, dass die Behandlungsdauer länger als bis um 11 Uhr bzw. 18 Uhr andauert, wenn noch Patienten im Wartezimmer sitzen. Die anderen Behauptungen sind ebenfalls abenteuerlich, denn ein Notdienst muss geleistet werden und gewährleistet sein unabhängig von der Rentabilität. Ebenso könnte man anführen, dass es sich nicht lohnt kritisch Verletzte bei einem Unfall zu retten, da die Überlebenschancen in jedem Fall gering sind oder man macht nur noch ein Krankenhaus in Stuttgart für alle Kreise, vergleichbar der neuen zahnärztlichen Notdienstversorgung, rentabler ist dieses <<Konzept>> mit Sicherheit. Man muss es von der Warte der Patienten sehen, denn diese zahlen nicht wenig und erwarten dafür zumindest eine adäquate Versorgung und keine - salopp formuliert - "Verarschung"!
 
-**<<Man kann nur vor solchen Argumentationen und Gedankenspielen warnen - es ist menschenverachtend>>**
+**<<Man kann nur vor solchen Argumentationen und Gedankenspielen warnen>>**
 {:.text-align-center}
 
-In dem Artikel wurde noch ein weiteres (Schein-)Argument ins Feld geführt, dass keine richtige Behandlung durchführt wurde. Ja, das war zutreffen, jedoch nur für das Katharinenhospital Stuttgart. Dort wurde ausschliesslich eine Behandlung der Schmerzen vorgenommen. Zahnärzte bei dem Notdienst in der eigenen Praxis durften schon zuvor umfangreichere Behandlungen, wie z.B. die besagte Wurzelbehandlung vornehmen. *Von Kollegen wisse er, dass Patienten zuvor, als Notfälle noch im Katharinenhospital behandelt worden sind, nur Antibiotika und Schmerzmittel verabreicht bekamen und dann wieder zu „ihrem“ Zahnarzt geschickt wurden. „Mittlerweile wird in Stuttgart im Notfall richtig behandelt, sogar Wurzelbehandlungen werden gemacht.“* So kann man die Wirklichkeit tendenziös beschreiben, um ein Bild enstehen zu lassen.
+In dem Artikel wurde noch ein weiteres (Schein-)Argument ins Feld geführt, dass keine richtige Behandlung durchführt würde. Ja, das war zutreffen, jedoch nur für das Katharinenhospital Stuttgart. Dort wurde ausschliesslich eine Behandlung der Schmerzen vorgenommen. Zahnärzte bei dem Notdienst in der eigenen Praxis durften schon zuvor umfangreichere Behandlungen, wie z.B. die besagte Wurzelbehandlung vornehmen. *Von Kollegen wisse er, dass Patienten zuvor, als Notfälle noch im Katharinenhospital behandelt worden sind, nur Antibiotika und Schmerzmittel verabreicht bekamen und dann wieder zu „ihrem“ Zahnarzt geschickt wurden. „Mittlerweile wird in Stuttgart im Notfall richtig behandelt, sogar Wurzelbehandlungen werden gemacht.“* Was man zudem nicht vergessen sollte, die Zahnärzte hatten sich mit dem Katharinenhospital "geeinigt", nur eine Schmerzbehandlung durchzuführen, da es u.a. um das Risiko der Nachbehandlung ging. Ganz simpel gesprochen, angenommen Zahnarzt A macht eine Füllung und es gibt Komplikationen, ist es problematisch, wenn diese dann von Zahnarzt B behoben werden müssen. So kann man die Wirklichkeit tendenziös beschreiben, um ein Bild enstehen zu lassen, was nur wenig mit der Realität gemein hat.
 
 **<<Diesen Zeitungsbericht hätte man vermutlich besser mit dem Hinweis Werbung versehen>>**
 {:.text-align-center}
 
 > Es lässt sich unschwer erkennen, die Situation ist eine Katastrophe und man will sie schönmalen.
-
 
 **Die Frage, die sich nun stellt, wie kam es zu dieser Katastrophe**
 {:.text-align-center}
@@ -58,14 +57,26 @@ In dem Artikel wurde noch ein weiteres (Schein-)Argument ins Feld geführt, dass
 Eine Antwort darauf und noch mehr interessante Erkenntnise werden Sie im weiteren Verlauf finden.
 
 **Frage:**
-+ *Wie kann ich helfen bzw. kann ich helfen?* Sie können helfen, indem Sie uns anonym Informationen beschaffen. Sollten wir Informationen benötigen teilen wir dies in unserem [Blog](/blog) mit. Dort finden Sie eine Kommentarfunktion, mit der Sie direkt Fragen stellen können.
-+ *Kann ich Sie mit einer Spende unterstützen?* Nein, zum einen würde dies unsere Unabhängigkeit in Frage stellen und zum anderen wollen wir eine Situation wie z.B. bei der [Causa Ballweg](https://de.wikipedia.org/wiki/Michael_Ballweg#Strafprozess){:target="_blank"} vermeiden.
++ *Wie kann ich helfen bzw. kann ich helfen?*
+  Sie können helfen, indem Sie uns anonym Informationen beschaffen. Sollten wir Informationen benötigen teilen wir dies in unserem [Blog](/blog) mit. Dort finden Sie eine Kommentarfunktion, mit der Sie direkt Fragen stellen können.
++ *Kann ich Sie mit einer Spende unterstützen?*
+  Nein, zum einen würde dies unsere Unabhängigkeit in Frage stellen und zum anderen wollen wir eine Situation wie z.B. bei der [Causa Ballweg](https://de.wikipedia.org/wiki/Michael_Ballweg#Strafprozess){:target="_blank"} vermeiden.
++ *Wie kann man Sie kontaktieren?* Sie können uns per Email kontaktieren **csi@zahnskandal.info**, aber erwarten Sie bitte keine (zeitnahe) Anwtwort und beachten Sie bitte, dass nur von uns signierte Emails tatsächnlich von uns sind - PGP-Public Key `6937 E29D 7710 593E DBE5  61D0 8C24 A5F8 174B A380`.
 
-Der Aufbau
+Besonders der letzte Punkt bezüglich der Beantwortung der Emails soll nicht arrogant wirken, aber es ist unrealistisch, dass wir heikle Daten mit unverifizierten Dritten diskutieren.
+{:.text-align-center}
 
-PGP
+<br/>
 
 ### Teil I - Die Vorgeschichte
+
+### Teil II - Die Absturz zum Start
+
+### Teil III - Die versuchte Restrukturierung
+
+### Teil IV - Die Notübernahme durch die KZV
+
+### Teil V - Die Neuordnung der Notversorgung I & II
 
 *[KZV]: Kassenzahnärztliche Vereinigung
 *[Paywall]: Bezahlschranke

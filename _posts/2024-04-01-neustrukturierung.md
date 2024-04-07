@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dawn
+title: Neustrukturierung
 image: /assets/img/castles/blutfestspiele4.jpg
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
