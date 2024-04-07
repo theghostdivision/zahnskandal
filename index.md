@@ -39,7 +39,7 @@ Der Aufbau
 
 PGP
 
-### Akt I - die Hochzeit
+### Teil I - Die Vorgeschichte
 
 *[KZV]: Kassenzahnärztliche Vereinigung
 *[Paywall]: Bezahlschranke
