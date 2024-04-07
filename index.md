@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Der Zahnskandal
 sitemap: true
 description: >
-  Der Zahnskandal in der Metropolregion Stuttgart - erfahren Sie exklusiv die verheimlichten skandalösen Hintergründe warum Patienten nun bis zu 100km zum Notdienst fahren müssen.
+  Der Zahnskandal in der Metropolregion Stuttgart - erfahren Sie exklusiv die verheimlichten skandalösen Hintergründe warum Patienten nun bis zu 80km zum Notdienst fahren müssen.
 hide_description: true
 cover: true
 ---
@@ -61,7 +62,7 @@ Eine Antwort darauf und noch mehr interessante Erkenntnise werden Sie im weitere
   Sie können helfen, indem Sie uns anonym Informationen beschaffen. Sollten wir Informationen benötigen teilen wir dies in unserem [Blog](/blog) mit. Dort finden Sie eine Kommentarfunktion, mit der Sie direkt Fragen stellen können.
 + *Kann ich Sie mit einer Spende unterstützen?*
   Nein, zum einen würde dies unsere Unabhängigkeit in Frage stellen und zum anderen wollen wir eine Situation wie z.B. bei der [Causa Ballweg](https://de.wikipedia.org/wiki/Michael_Ballweg#Strafprozess){:target="_blank"} vermeiden.
-+ *Wie kann man Sie kontaktieren?* Sie können uns per Email kontaktieren **csi@zahnskandal.info**, aber erwarten Sie bitte keine (zeitnahe) Anwtwort und beachten Sie bitte, dass nur von uns signierte Emails tatsächnlich von uns sind - PGP-Public Key `6937 E29D 7710 593E DBE5  61D0 8C24 A5F8 174B A380`.
++ *Wie kann man Sie kontaktieren?* Sie können uns per Email kontaktieren **csi@zahnskandal.info**, aber erwarten Sie bitte keine (zeitnahe) Anwtwort und beachten Sie bitte, dass nur von uns signierte Emails tatsächlich von uns sind - PGP-Public Key `6937 E29D 7710 593E DBE5  61D0 8C24 A5F8 174B A380`.
 
 Besonders der letzte Punkt bezüglich der Beantwortung der Emails soll nicht arrogant wirken, aber es ist unrealistisch, dass wir heikle Daten mit unverifizierten Dritten diskutieren.
 {:.text-align-center}
@@ -81,6 +82,7 @@ Besonders der letzte Punkt bezüglich der Beantwortung der Emails soll nicht arr
 *[KZV]: Kassenzahnärztliche Vereinigung
 *[Paywall]: Bezahlschranke
 *[PGP]: Pretty Good Privacy
+
 [^1]: Es betrifft die Landkreise Böblingen, Göppingen, Ludwigsburg, Rems-Murr und Sindelfingen, für die die [zahnärztliche Notdienstversorgung](https://www.kzvbw.de/zahnarzt-notdienst/stuttgart/){:target="_blank"} in Stuttgart zentralisiert wurde. In diesen Landkreisen leben ca. 2.8 Mio. Menschen (Quelle: [Wikipedia](https://de.wikipedia.org){:target="_blank"}).
 [^2]: Zahnmedizinische Notfälle sind nicht bei den [Ausnahmen](https://www.stuttgart.de/leben/mobilitaet/dieselverkehrsverbot/dieselverkehrsverbot.php#ausnahmen-und-ausnahmegenehmigung){:target="_blank"} aufgezählt.
-[^3]: 2022 war die maximale Anfahrt auf ca. 50km ausgelegt und in den abgelegenen Gebieten gab es weiterhin eine lokale Versorgung. Seit 2024 es pauschal für alle in den Landkreisen Böblingen, Göppingen, Ludwigsburg, Rems-Murr und Sindelfingen umgestellt. Ein Schmerzpatient aus z.B. Heidhöfe im Landkreis Göppingen hat nun eine Anfahrt von ca. 80 km mit dem Auto bzw. ca. 2h mit öffentlichen Verkehrsmitteln. Das sind nahezu Zustände wie in einem Entwicklungsland.  
+[^3]: 2022 war die maximale Anfahrt auf ca. 50km ausgelegt und in den abgelegenen Gebieten gab es weiterhin eine lokale Versorgung. 2024 kam es zur pauschalen Umstellung für alle in den Landkreisen Böblingen, Göppingen, Ludwigsburg, Rems-Murr und Sindelfingen. Ein Schmerzpatient aus z.B. Heidhöfe im Landkreis Göppingen hat nun eine Anfahrt von ca. 80 km mit dem Auto bzw. ca. 2h mit öffentlichen Verkehrsmitteln. Das sind nahezu Zustände wie in einem Entwicklungsland.
