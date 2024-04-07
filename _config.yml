@@ -13,12 +13,12 @@ title:                 Der Zahnskandal
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Erfahren Sie alles über die sagenhaften Blutfestspiele 2024 von Ludwigsburg und wie Sie daran teilnehmen können!
+  Erfahren Sie alles über Zahnskandal in der Metropolregion Stuttgart und was man Ihnen bewußt verheimlicht!
 
 # A shorter description for the sidebar.
-tagline:               <span class="home-message-special">Es wird wieder euthanisiert!</span><br/><br/>
-                       So unglaublich ist das leider nicht - die [Idiotrie (Psychiatrie) Ludwigsburg](https://www.rkh-gesundheit.de/kliniken-zentren/fachbereiche/ludwigsburg/klinik-fuer-psychiatrie-psychotherapie-und-psychosomatische-medizin/){:target="_blank"} verwendet wieder wie im [3. Reich](https://de.wikipedia.org/wiki/Drittes_Reich){:target="_blank"} völlig gewissenlos die [Euthanasiediagnose V.a. Schizophrenie](/https://de.wikipedia.org/wiki/Geschichte_der_Euthanasie#Euthanasie_als_Bezeichnung_f%C3%BCr_nationalsozialistische_Krankenmorde){:target="_blank"}!<br/><br/>
-
+tagline:               <span class="home-message-special">Exklusiv die Hintergründe!</span><br/><br/>
+                       Der Zahnskandal in der Metropolregion Stuttgart - erfahren Sie exklusiv die verheimlichten skandalösen Hintergründe warum Patienten nun bis zu 100km zum Notdienst fahren müssen.<br/><br/>
+                       Lernen Sie die katastrophalen Ereignisse kennen, die innerhalb kürzester Zeit zum Zusammenbruch der jahrelang funktionierenden lokalen zahnärztlichen Notversorgung führten - zur Rettung eines feministisches Wolkenkuckucksheims!
 
 # A list of keywords for your blog
 keywords:              []
@@ -73,7 +73,7 @@ remote_theme: 	       hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/dystopia/real-dystopia-4.jpg
+accent_image:          /assets/img/dystopia/real-dystopia-3.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
