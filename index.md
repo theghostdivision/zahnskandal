@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 sitemap: true
 description: >
   Die Blutfestspiele oder was passieren kann, wenn Schweigegeld annimmt und denkt die Situation sei unter Kontrolle. Realistisch oder fake - entscheiden Sie!
