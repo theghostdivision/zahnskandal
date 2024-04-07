@@ -1,0 +1,4 @@
+Sitemap: http://www.zahnskandal.info/sitemap.xml
+
+User-agent: *
+Disallow: /legal/
