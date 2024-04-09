@@ -106,7 +106,23 @@ Nun gibt es ein (kleines) Problem, eine GbR muss keine Zahlen veröffentlichen -
 
 Es ist ganz klar ersichtlich, dass Dentics <<nie vom Boden wegkam>> und bis auf das Jahr 2021 permanent ein Verlustgeschäft war. Das Jahr 2021, dazu werden wir später noch kommen, ist ein Sonderfall, da 2021 die Übernahme der Schloßstr. 74 erfolgte und nach unserer Erkenntnis es sich um Buchgewinne durch den Verkauf handelte. Somit ist es fragwürdig ob überhaupt in der gesamten Historie der Dentics Zahnärzte GmbH jemals ein Gewinn aus dem operativen Geschäft erzielt wurde.
 
+Ganz anders sah offenbar es in den Jahren vor 2016 aus. Unter der Hand wurde uns mitgeteilt, dass die Finanz- und Ertragslage mehr als zufriedenstellend in den Jahren 2008 bis 2016 war. Angeblich gab es kein Jahr mit einem negativen Cash-Flow bzw. einem negativen <<Jahresüberschuss>>.  Diese Aussagen erscheinen mehr als plausibel, wenn man bedenkt, dass für die Neugründung in Stuttgart Darlehen aufgenommen werden mussten und mit einem negativen Cash-Flow ist es sehr herausfordernd, manche würden sogar sagen unmöglich, für ein <<Suizidprojekt>> in einem mehr als überversorgten Gebiet Darlehen zu erhalten.
+
+**Beweis: Lebensweisheit**
+{:.text-align-center}
+
+Wer das nicht glaubt, kann gerne Darlehen bei einer Bank für die nächste vorab geplante <<Notfallpraxis der KZV>> anfordern und berichten. 
+
+*Wie kam es dann zu dem plötzlichen Absturz?*
+{:.text-align-center}
+
+Eine gute Frage. Es muss etwas gravierendes im dritten oder vierten Quartal 2017 vorgefallen sein. 
+
+<br/>
+
 ### Teil III - Die versuchte Restrukturierung
+
+
 
 ### Teil IV - Die Notübernahme durch die KZV
 
@@ -132,7 +148,7 @@ Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts dam
 [^4]: DENTICS oder mit voller Bezeichnung DENTICS Zahnärzte GmbH ist ein medizinisches Versorgungszentrum (MVZ)
 [^5]: Eine offizielle solche Bezeichnung gab es nicht, es wurde angeblich von vielen inoffziell (und scherzfahft) so genannt, vermutlich in Anlehnung an das [Alldent](https://www.alldent-zahnzentrum-stuttgart.de/){:target="_blank"}-Zahnzentrum.
 [^6]: Relevant ist jeweils die Spalte 11. Die Spalte 5 bezieht sich darauf, wie viele Zahnärzte notwendig sind, um einen Versorgungsgrad von 100% zu erreichen.
-[^7]: Eine offizielle Bestätigung steht noch aus. Wir haben unsere Daten mit der [Wayback Machine](https://web.archive.org/){:target="_blank"} ermittelt. 2020 tauchte die Liststr. nicht mehr bei den Praxen auf ([Wayback Machine DENTICS 2020](https://web.archive.org/web/20200814023652/https://www.dentics.de/){:target="_blank"}), 2010 aber sehr wohl ([Wayback Machine DENTICS 2019](https://web.archive.org/web/20190129072234/https://www.dentics.de/){:target="_blank"}). Folglich fand die Schliessung zwischen dem August 2019 und August 2020 statt, die Vermutung liegt nahe, dass die Schliessung noch 2019 stattfand bzw. bereits beschlossen war.
+[^7]: Eine offizielle Bestätigung steht noch aus. Wir haben unsere Daten mit der [Wayback Machine](https://web.archive.org/){:target="_blank"} ermittelt. 2020 tauchte die Liststr. nicht mehr bei den Praxen auf ([Wayback Machine DENTICS 2020](https://web.archive.org/web/20200814023652/https://www.dentics.de/){:target="_blank"}), 2010 aber sehr wohl ([Wayback Machine DENTICS 2019](https://web.archive.org/web/20190129072234/https://www.dentics.de/){:target="_blank"}). Folglich fand die Schliessung zwischen dem August 2019 und August 2020 statt, die Vermutung liegt nahe, dass die Schliessung noch 2019 stattfand bzw. bereits beschlossen war. Diese These wird untermauert durch die Tatsache, dass die Praxis nicht weitergeführt wurde und man sollte nicht vergessen, dass Praxen normalerweise über 10 Jahre finanziert werden, da dieser Wert in der Regel die Untergrenze für eine Amortisation darstellt.
 [^8]: Diese Informationen wurden aus mehreren Quellen im Internet zusammengetragen. Laut Selbstaussage betrug dei Fläche 400qm und es gab 9 Behandlungseinheiten/-zimmer.
 [^9]: Gründung 16.05.2017
 [^10]: 32 Zahnärzte (21 Alldent + 11 Dentics) / 231 Zahnärzte (Anzahl der Zahnärzte expemplarisch 31.12.2019) * 100 %
