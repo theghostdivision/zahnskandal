@@ -141,7 +141,7 @@ Außerdem erschien Dr. Jacobi damals alleine vor dem Notar (Urkundenrolle Nr. 64
 In dem Jahreabschluss 2017[^13] der Dentics Zahnärzte GmbH ist eine Position unter Passiva B. Einlagen stiller Gesellschafter mit 200.000 € aufgeführt und 2018 ist diese wieder verschwunden. Mit dem Verschwinden der 2 Mitgeschäftsführer Marc Derler und Dr. Heidrun Hess 2018 war ebenfalls die stille Einlage verschwunden. 
 
 
-stiller Teilhaber
+Kreditbetrug
 
 <br/>
 
