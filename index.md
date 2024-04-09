@@ -71,6 +71,27 @@ Besonders der letzte Punkt bezüglich der Beantwortung der Emails soll nicht arr
 
 ### Teil I - Die Vorgeschichte
 
+Die Vorgeschichte handelt davon, wie sich die Katastrophe entwickelte und ab wann diese vorhersehbar war, um es noch präziser zu sagen, ab wann diese nicht mehr verhinderbar war.
+
+Es ist schwer den exakten Zeitpunkt zu bestimmen, an dem alles anfing. Einige sagen, es war 2012, andere sagen, es war 2017. Auslöser der Katatstrophe war **[DENTICS](https://www.dentics.de){:target="_blank"}[^4]** und deren Fehlinvestition in deren 2017 neu gegründetes "Zahnzentrum"[^5] oder Großpraxis in der Schloßstr. 74 in Stuttgart.
+
+Die Vorgeschichte ist schnell erzählt oder auch nicht. Es kommt darauf an, wem man glaubt und ich sage dies mit Absicht, denn Personen, die tief darinsteckten, behaupteten, alles wäre von Anfang an geplant gewesen.
+
+
+https://scontent-muc2-1.xx.fbcdn.net/v/t1.18169-9/20914434_1431660810234412_5696860143891234711_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=i24OET48L0sAb6MSbmb&_nc_ht=scontent-muc2-1.xx&oh=00_AfBpeXbuiJo4_qN6801pTJLxwzfqmwV56SVxecripY1Ysw&oe=663C374B
+
+
+https://scontent-muc2-1.xx.fbcdn.net/v/t31.18172-8/21199586_1441510692582757_1174031534557513554_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VUIMA-dGCQMAb5zYKfA&_nc_ht=scontent-muc2-1.xx&oh=00_AfDzpfsy-cneQNClT_W-atXGxHj4rro0eWbpi0sqrunq7w&oe=663C4CB7
+
+
+Darlehenssumme
+
+https://www.northdata.de/Dentics+Zahn%C3%A4rzte+GmbH,+Ludwigsburg/Amtsgericht+Stuttgart+HRB+760091
+
+> Ich kann nur warnen, dieser Argumentation blind zu folgen
+
+Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts damit zu tun, 10 Jahre später und danach einen Zahnskandal für die Bevölkerung zu 
+
 ### Teil II - Die Absturz zum Start
 
 ### Teil III - Die versuchte Restrukturierung
@@ -86,3 +107,5 @@ Besonders der letzte Punkt bezüglich der Beantwortung der Emails soll nicht arr
 [^1]: Es betrifft die Landkreise Böblingen, Göppingen, Ludwigsburg, Rems-Murr und Sindelfingen, für die die [zahnärztliche Notdienstversorgung](https://www.kzvbw.de/zahnarzt-notdienst/stuttgart/){:target="_blank"} in Stuttgart zentralisiert wurde. In diesen Landkreisen leben ca. 2.8 Mio. Menschen (Quelle: [Wikipedia](https://de.wikipedia.org){:target="_blank"}).
 [^2]: Zahnmedizinische Notfälle sind nicht bei den [Ausnahmen](https://www.stuttgart.de/leben/mobilitaet/dieselverkehrsverbot/dieselverkehrsverbot.php#ausnahmen-und-ausnahmegenehmigung){:target="_blank"} aufgezählt.
 [^3]: 2022 war die maximale Anfahrt auf ca. 50km ausgelegt und in den abgelegenen Gebieten gab es weiterhin eine lokale Versorgung. 2024 kam es zur pauschalen Umstellung für alle in den Landkreisen Böblingen, Göppingen, Ludwigsburg, Rems-Murr und Sindelfingen. Ein Schmerzpatient aus z.B. Heidhöfe im Landkreis Göppingen hat nun eine Anfahrt von ca. 80 km mit dem Auto bzw. ca. 2h mit öffentlichen Verkehrsmitteln. Das sind nahezu Zustände wie in einem Entwicklungsland.
+[^4]: DENTICS oder mit voller Bezeichnung DENTICS Zahnärzte GmbH ist ein medizinisches Versorgungszentrum (MVZ)
+[^5]: Eine offizielle solche Bezeichnung gab es nicht, es wurde angeblich von vielen inoffziell (und scherzfahft) so genannt, vermutlich in Anlehnung an das [Alldent](https://www.alldent-zahnzentrum-stuttgart.de/){:target="_blank"}-Zahnzentrum.
