@@ -170,6 +170,8 @@ Kündigung aus wichtigem Grund
 
 Zulassung nur an einer Stelle möglich => Zwang der KZV
 
+Weg aus Ludwigsburg
+
 Derler Lebensgefährte => Bilder
 
 Kreditbetrug
