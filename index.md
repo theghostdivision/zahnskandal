@@ -120,7 +120,28 @@ Eine gute Frage. Es muss etwas gravierendes im dritten oder vierten Quartal 2017
 
 Möchte man noch mehr in die Detail gehen, muss man den Bundesanzeiger in Form des [Unternehmensregisters](https://www.unternehmensregister.de/){:target="_blank"} zu Rate ziehen. In den Registerinformationen findet sich unter der Rubrik Dokumentenansicht der Eintrag vom 15.06.2018. In der Urkundenrolle Nr. 3397/2018 wird festgehalten, dass Dr. Jacobi *alleine* zum 02.05.2018 das Ausscheiden von Marc Derler und Dr. Heidrun Hess veranlasste bzw. veranlassen musste - die öffentliche Bekannmachung erfolgte dann am 21.06.2018.
 
-Es gibt Gerüchte. Ein Gerücht besagt, dass Dr. Hess eigentlich schon, wie bei Ärzten und Zahnärzten üblich, die Praxis bereits zum 01.01.2018 übernehmen wollte. Es ist deshalb Usus zum ersten Werktag nach dem 01.01. eines Jahres[^11] eine Praxis zu übernehmen.
+Es gibt Gerüchte. Ein Gerücht besagt, dass Dr. Hess eigentlich schon, wie bei Ärzten und Zahnärzten üblich, die Praxis bereits zum 01.01.2018 übernehmen wollte. Es ist deshalb Usus zum ersten Werktag nach dem 01.01. eines Jahres[^11] eine Praxis zu übernehmen. Praxen die ansonsten zu solch ungewöhnlichen Zeitpunkten übernommen werden sind meist <<Notfälle>>. Nehmen wir den folgenden Fall an, der Arzt wird berufsunfähig oder verstirbt, in diesem Fall ist der steuerliche Effekt[^11] nicht von großer Bedeutung, es interessiert vielmehr, dass die Praxis zeitnah einen Übernehmer findet und das ist quartalsweise möglich, denn Ärzte und Zahnärzte rechenen quartalsweise ab.
+
+Kommen wir nochmals zu der Praxis Lindmayr zurück und an dieser Stelle haben wir keine Erkenntnisse, dass dieser plötzlich verstorben oder berufsunfähig o.ä. war und im Besonderen haben wir ebenfalls keine Kenntnisse, dass die Praxis notleidend gewesen wäre. Aus diesen Gründen stufen wir das Gerücht, dass Dr. Hess ursprünglich eine Übernahme zum 01.01.2018 geplant hatte als plausibel ein.
+
+**Sie denken, das ist schon merkwürdig - es wird noch viel merkwürdiger**
+{:.text-align-center}
+
+Bei der Gründung der Dentics Zahnärzte GmbH[^12] übernahm Dr. Jacobi das komplette Stammkapital
+
+> §3 Stammkapital, Stammeinlagen
+  (2) Vom Stammkapital übernimmt
+  Frau Dr. Anne Katharina Jacobi-Haumer, geb. am 13.07.1977, wohnhaft in Ludwigsburg einen Geschäftsanteil mit dem Nennwert von 100.000 Euro. (Geschäftsanteil Nr. 1).
+
+Außerdem erschien Dr. Jacobi damals alleine vor dem Notar (Urkundenrolle Nr. 642/2017) und ernannte sowohl Marc Derler als auch Dr. Heidrun Hess zu den Geschäftsführern - ohne deren damalige Anwesenheit.
+
+**Kann es noch merkwürdiger werden - ja**
+{:.text-align-center}
+
+In dem Jahreabschluss 2017[^13] der Dentics Zahnärzte GmbH ist eine Position unter Passiva B. Einlagen stiller Gesellschafter mit 200.000 € aufgeführt und 2018 ist diese wieder verschwunden. Mit dem Verschwinden der 2 Mitgeschäftsführer Marc Derler und Dr. Heidrun Hess 2018 war ebenfalls die stille Einlage verschwunden. 
+
+
+stiller Teilhaber
 
 <br/>
 
@@ -153,7 +174,9 @@ Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts dam
 [^5]: Eine offizielle solche Bezeichnung gab es nicht, es wurde angeblich von vielen inoffziell (und scherzfahft) so genannt, vermutlich in Anlehnung an das [Alldent](https://www.alldent-zahnzentrum-stuttgart.de/){:target="_blank"}-Zahnzentrum.
 [^6]: Relevant ist jeweils die Spalte 11. Die Spalte 5 bezieht sich darauf, wie viele Zahnärzte notwendig sind, um einen Versorgungsgrad von 100% zu erreichen.
 [^7]: Eine offizielle Bestätigung steht noch aus. Wir haben unsere Daten mit der [Wayback Machine](https://web.archive.org/){:target="_blank"} ermittelt. 2020 tauchte die Liststr. nicht mehr bei den Praxen auf ([Wayback Machine DENTICS 2020](https://web.archive.org/web/20200814023652/https://www.dentics.de/){:target="_blank"}), 2010 aber sehr wohl ([Wayback Machine DENTICS 2019](https://web.archive.org/web/20190129072234/https://www.dentics.de/){:target="_blank"}). Folglich fand die Schliessung zwischen dem August 2019 und August 2020 statt, die Vermutung liegt nahe, dass die Schliessung noch 2019 stattfand bzw. bereits beschlossen war. Diese These wird untermauert durch die Tatsache, dass die Praxis nicht weitergeführt wurde und man sollte nicht vergessen, dass Praxen normalerweise über 10 Jahre finanziert werden, da dieser Wert in der Regel die Untergrenze für eine Amortisation darstellt.
-[^8]: Diese Informationen wurden aus mehreren Quellen im Internet zusammengetragen. Laut Selbstaussage betrug dei Fläche 400qm und es gab 9 Behandlungseinheiten/-zimmer.
+[^8]: Diese Informationen wurden aus mehreren Quellen im Internet zusammengetragen. Laut Selbstaussage betrug die Fläche 400qm und es gab 9 Behandlungseinheiten/-zimmer.
 [^9]: Gründung 16.05.2017
 [^10]: 32 Zahnärzte (21 Alldent + 11 Dentics) / 231 Zahnärzte (Anzahl der Zahnärzte expemplarisch 31.12.2019) * 100 %
 [^11]: Normalerweise würde man denken zum 01.01., aber ein findiger Steuerprüfer hatte festgestellt, dass man an einem Feiertag (abgesehen von einem eventuelle Notdienst) üblicherweise keine Praxis übernimmt bzw. nicht an diesem Tag praktiziert. Folglich hat man die Möglichkeit am 01.01. zu übernehmen, wenn man an diesem Tag auch den Notdienst ableistet oder eben am ersten darauf folgenden Werktag. Es ist im Prinzip eine kleine Katastrophe, da der Abgeber so einn Jahresabschluss für einen bis maximal 3 Tage (der 01.01. ist ein Freitag und Samstag und Sonntag zählen nicht Werktag üblicherweise bei Ärzten und Zahnärzten) erstellen müsste. In der Praxis lässt man das jedoch unter den Tisch fallen. Bei einer Übernahme zum 01.01. entsteht eine maximale Katastrophe für den Abgeber, denn dann wird der Erlös in das Vorjahr zurückgerechnet und das kann steuerlich sehr teuer werden, sehr teuer!
+[^12]: Diese Informationen sind zu finden unter Unternehmensregister > Dokumentenansicht > Gesellschaftsvertrag / Satzung / Statut vom 19.01.2017.
+[^13]: Diese Informationen sind zu finden unter Bundesanzeiger > Jahresabschluss zum Geschäftsjahr vom 01.01.2017 bis zum 31.12.2017.
