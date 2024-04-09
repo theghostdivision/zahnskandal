@@ -160,7 +160,9 @@ Eine 0-Beteiligung war schon immer kritisch und dazu finden sich - man könnte f
 **Eine legale plausible Erklärung hierfür dürfte es nicht geben**
 {:.text-align-center}
 
-Hess auf Bildern der Eröffnung
+An diesem Punkt sind wir einen Schritt zurückgegangen und haben die Eröffnungsbilder vom 11.09.2017 der Schloßstr. 74 in Stuttgart analysiert. Auf einem der Bilder ist [Dr. Hess klar zu erkennen](https://scontent-muc2-1.xx.fbcdn.net/v/t31.18172-8/21586708_1451256371608189_2444521868829201031_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Ye3HWUyj2zwAb6TVDrU&_nc_ht=scontent-muc2-1.xx&oh=00_AfC157ZHjx1xIki_jt1ja3OxtMeBkAk8_0MV3XpJ4ceh2g&oe=663CE934){:target="_blank"} und auf dem [Bild am Eingang](https://scontent-muc2-1.xx.fbcdn.net/v/t31.18172-8/21543923_1451255958274897_1579400322539190735_o.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ltr-IxdIc3QAb40gbBS&_nc_ht=scontent-muc2-1.xx&oh=00_AfBhZeysQ2a2DtsXhYNP6nV0Yo_XoJqAbvCrsVz_Gf8jRg&oe=663CC2EF){:target="_blank"} ebenfalls.
+
+=> Nur eine logische Erklärung - Arbeiten am neuen Ort ja / Vertuschung einer Kündigung aus wichtigem Grund (und zwar von Dr. Hess)
 
 Geld gezahlt für die Praxis
 
