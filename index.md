@@ -138,8 +138,20 @@ Außerdem erschien Dr. Jacobi damals alleine vor dem Notar (Urkundenrolle Nr. 64
 **Kann es noch merkwürdiger werden - ja**
 {:.text-align-center}
 
-In dem Jahreabschluss 2017[^13] der Dentics Zahnärzte GmbH ist eine Position unter Passiva B. Einlagen stiller Gesellschafter mit 200.000 € aufgeführt und 2018 ist diese wieder verschwunden. Mit dem Verschwinden der 2 Mitgeschäftsführer Marc Derler und Dr. Heidrun Hess 2018 war ebenfalls die stille Einlage verschwunden. 
+In dem Jahreabschluss 2017[^13] der Dentics Zahnärzte GmbH ist eine Position unter Passiva B. Einlagen stiller Gesellschafter mit 200.000 € aufgeführt und 2018 ist diese wieder verschwunden. Mit dem Verschwinden der 2 Mitgeschäftsführer Marc Derler und Dr. Heidrun Hess 2018 war ebenfalls die stille Einlage nicht mehr existent. 
 
+Die Merkwürdigkeiten nehmen an dieser Stelle nicht ab, sondern zu. Dr. Hess war [von 2008 bis 2017 Partnerin](https://www.zahnarzt-zuffenhausen.de/ueber-uns/zahnaerzte/){:target="_blank"} von Dr. Jacobi. Die Aussage von Dr. Hess stützt ebenfalls die These, dass die Partnerschaft 2017 endete.
+
+Die Frage bleibt somit weiterhin, wieso versuchte Dr. Jacobi das Ende bis Mitte 2018 hinauszuzögern und wieso wurde Dr. Hess angeblich das erste Quartal 2018 an der Berufsausübung in Ihrer Praxis in Stuttgart gehindert, obwohl Sie - laut eigener Aussage - bereits Ende 2017 bei Dentics ausgeschieden war?
+
+> **Die Fakten liegen auf dem Tisch**
+  1. Dr. Hess schied Ende 2017 aus
+  2. Dr. Hess wurde nicht am Stammkapital der Dentics Zahnärzte GmbH beteiligt
+  3. Es gab einen stillen Teilhaber mit einer Einlage von 200.000 € Ende 2017
+
+Unsere erste Idee war, dass Dr. Hess möglicherweise kalte Füsse bekommen hatte, nachdem Alldent Stuttgart im Mai 2017 sich gegründet hatte[^9], kurze Zeit nach der Gründung der Dentics Zahnärzte GmbH im Januar 2017. Bei intensiverer Recherche konnte sich dieser Verdacht nicht erhärten und diese These konnte gleichfalls die <<Entlassung>> von Marc Derler, zeitgleich mit Dr. Heidrun Hess im Juni 2018, nicht erklären. Die Entlassung vom 02.05.2018 mit Veröffentlichung am 21.06.2018 ergab schlicht keinen Sinn. 
+
+https://www.medizintechnikmarkt.de/blog/berufsausuebungsgemeinschaft#h2-11
 
 Kreditbetrug
 
