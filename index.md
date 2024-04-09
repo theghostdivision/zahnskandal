@@ -154,9 +154,23 @@ Unsere erste Idee war, dass Dr. Hess möglicherweise kalte Füsse bekommen hatte
 **Ein Ausscheiden nicht zum Quartalsende ist bei Ärzten und Zahnärzten immer ein Red Flag**
 {:.text-align-center}
 
+Es stellte sich zudem eine weitere (heikle) Frage: *„Wieso war für Dr. Hess von Anfang an eine 0-Beteiligung am Stammkapital geplant?“*
+Eine 0-Beteiligung war schon immer kritisch und dazu finden sich - man könnte fast sagen - unzählige [Artikel](https://www.medizintechnikmarkt.de/blog/berufsausuebungsgemeinschaft#h2-11){:target="_blank"}. Es wird davor gewarnt, denn es ist (fast) nicht zu erklären, dass ein Gesellschafter ein Teil des Unternehmensrisikos tragen soll und nicht an den Früchten partizipiert. Es ist absurd, dass ein Partner, der etwas mitaufbaut, was in dem Falle der Neugründung in der Schloßstr. 74 in Stuttgart definitiv der Fall gewesen wäre, nicht davon mit profitieren soll.
 
+**Eine legale plausible Erklärung hierfür dürfte es nicht geben**
+{:.text-align-center}
 
-https://www.medizintechnikmarkt.de/blog/berufsausuebungsgemeinschaft#h2-11
+Hess auf Bildern der Eröffnung
+
+Geld gezahlt für die Praxis
+
+Erpressung
+
+Kündigung aus wichtigem Grund
+
+Zulassung nur an einer Stelle möglich => Zwang der KZV
+
+Derler Lebensgefährte => Bilder
 
 Kreditbetrug
 
