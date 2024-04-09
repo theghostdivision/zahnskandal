@@ -147,9 +147,14 @@ Die Frage bleibt somit weiterhin, wieso versuchte Dr. Jacobi das Ende bis Mitte 
 > **Die Fakten liegen auf dem Tisch**
   1. Dr. Hess schied Ende 2017 aus
   2. Dr. Hess wurde nicht am Stammkapital der Dentics Zahnärzte GmbH beteiligt
-  3. Es gab einen stillen Teilhaber mit einer Einlage von 200.000 € Ende 2017
+  3. Es gab einen stillen Teilhaber mit einer Einlage von 200.000 € Ende 2017, der 2018 ausschied
 
-Unsere erste Idee war, dass Dr. Hess möglicherweise kalte Füsse bekommen hatte, nachdem Alldent Stuttgart im Mai 2017 sich gegründet hatte[^9], kurze Zeit nach der Gründung der Dentics Zahnärzte GmbH im Januar 2017. Bei intensiverer Recherche konnte sich dieser Verdacht nicht erhärten und diese These konnte gleichfalls die <<Entlassung>> von Marc Derler, zeitgleich mit Dr. Heidrun Hess im Juni 2018, nicht erklären. Die Entlassung vom 02.05.2018 mit Veröffentlichung am 21.06.2018 ergab schlicht keinen Sinn. 
+Unsere erste Idee war, dass Dr. Hess möglicherweise kalte Füsse bekommen hatte, nachdem Alldent Stuttgart sich im Mai 2017 gegründet hatte[^9], kurze Zeit nach der Gründung der Dentics Zahnärzte GmbH im Januar 2017. Bei intensiverer Recherche konnte sich dieser Verdacht nicht erhärten und diese These konnte gleichfalls die <<Entlassung>> von Marc Derler, zeitgleich mit Dr. Heidrun Hess im Juni 2018, nicht erklären. Die Entlassung vom 02.05.2018 mit Veröffentlichung am 21.06.2018 ergab schlicht keinen Sinn.
+
+**Ein Ausscheiden nicht zum Quartalsende ist bei Ärzten und Zahnärzten immer ein Red Flag**
+{:.text-align-center}
+
+
 
 https://www.medizintechnikmarkt.de/blog/berufsausuebungsgemeinschaft#h2-11
 
@@ -188,7 +193,7 @@ Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts dam
 [^7]: Eine offizielle Bestätigung steht noch aus. Wir haben unsere Daten mit der [Wayback Machine](https://web.archive.org/){:target="_blank"} ermittelt. 2020 tauchte die Liststr. nicht mehr bei den Praxen auf ([Wayback Machine DENTICS 2020](https://web.archive.org/web/20200814023652/https://www.dentics.de/){:target="_blank"}), 2010 aber sehr wohl ([Wayback Machine DENTICS 2019](https://web.archive.org/web/20190129072234/https://www.dentics.de/){:target="_blank"}). Folglich fand die Schliessung zwischen dem August 2019 und August 2020 statt, die Vermutung liegt nahe, dass die Schliessung noch 2019 stattfand bzw. bereits beschlossen war. Diese These wird untermauert durch die Tatsache, dass die Praxis nicht weitergeführt wurde und man sollte nicht vergessen, dass Praxen normalerweise über 10 Jahre finanziert werden, da dieser Wert in der Regel die Untergrenze für eine Amortisation darstellt.
 [^8]: Diese Informationen wurden aus mehreren Quellen im Internet zusammengetragen. Laut Selbstaussage betrug die Fläche 400qm und es gab 9 Behandlungseinheiten/-zimmer.
 [^9]: Gründung 16.05.2017
-[^10]: 32 Zahnärzte (21 Alldent + 11 Dentics) / 231 Zahnärzte (Anzahl der Zahnärzte expemplarisch 31.12.2019) * 100 %
+[^10]: 32 Zahnärzte (21 Alldent + 11 Dentics) / 231 Zahnärzte (Anzahl der Zahnärzte exemplarisch 31.12.2019) * 100 %
 [^11]: Normalerweise würde man denken zum 01.01., aber ein findiger Steuerprüfer hatte festgestellt, dass man an einem Feiertag (abgesehen von einem eventuelle Notdienst) üblicherweise keine Praxis übernimmt bzw. nicht an diesem Tag praktiziert. Folglich hat man die Möglichkeit am 01.01. zu übernehmen, wenn man an diesem Tag auch den Notdienst ableistet oder eben am ersten darauf folgenden Werktag. Es ist im Prinzip eine kleine Katastrophe, da der Abgeber so einn Jahresabschluss für einen bis maximal 3 Tage (der 01.01. ist ein Freitag und Samstag und Sonntag zählen nicht Werktag üblicherweise bei Ärzten und Zahnärzten) erstellen müsste. In der Praxis lässt man das jedoch unter den Tisch fallen. Bei einer Übernahme zum 01.01. entsteht eine maximale Katastrophe für den Abgeber, denn dann wird der Erlös in das Vorjahr zurückgerechnet und das kann steuerlich sehr teuer werden, sehr teuer!
 [^12]: Diese Informationen sind zu finden unter Unternehmensregister > Dokumentenansicht > Gesellschaftsvertrag / Satzung / Statut vom 19.01.2017.
 [^13]: Diese Informationen sind zu finden unter Bundesanzeiger > Jahresabschluss zum Geschäftsjahr vom 01.01.2017 bis zum 31.12.2017.
