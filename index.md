@@ -23,31 +23,31 @@ Es handelt sich um eine sehr heikle Angelegenheit, die viele Menschen - es sind 
 
 **Tatsache ist:** Durch die Neuregelung sind faktisch alle Patienten, die auf öffentliche Verkehrsmittel angewiesen sind von der Notdienstversorgung nachts und am Wochenende abgeschnitten. Das betrifft besonders ältere und sozial schwächere Menschen, aber nicht nur, auch Personen, die z.B. einen älteren "Diesel" haben, dürfen (möglicherweise) nach Stuttgart in die [Umweltzone](https://www.stuttgart.de/leben/mobilitaet/dieselverkehrsverbot/dieselverkehrsverbot.php){:target="_blank"} fahren, können dies jedoch nicht abschätzen und gehen ein Risiko ein, da es sich (möglicherweise) um eine Ausnahme handelt und es ist äußerst umstritten, ob zu den **medizinischen Notfällen** auch zahnmedizinische Notfälle zählen[^2]. Es sind "nur" [128,50 €](https://www.stuttgart.de/leben/mobilitaet/dieselverkehrsverbot/dieselverkehrsverbot.php#was-passiert-bei-verstoessen-gegen-die-diesel-verkehrsverbote){:target="_blank"}, die drohen und es gibt keine Punkte, ärgerlich ist es dennoch.
 
-**<<Es handelt sich um eine Katastrophe mit Ansage>>**
+**Es handelt sich um eine Katastrophe mit Ansage**
 {:.text-align-center}
 
 Anfang 2022 wurde die zahnärztliche Notdienstversorgung neu geregelt[^1] und die Lage war damals so angespannt, dass - laut unseren Informationen - der Artikel der **Stuttgarter Zeitung:** [*"Patienten müssen 50 Kilometer zur Zahnbehandlung fahren"*](https://www.stuttgarter-zeitung.de/inhalt.notfallpraxis-in-stuttgart-50-kilometer-bis-zur-zahnbehandlung.f1647aff-86c5-4ede-b70a-8db370a8aa3d.html#:~:text=Notfallpraxis%20in%20Stuttgart%20Patienten%20m%C3%BCssen%2050%20Kilometer%20zur%20Zahnbehandlung%20fahren&text=Seit%20Anfang%20Januar%20m%C3%BCssen%20Patienten,Schlossstra%C3%9Fe%2074%20in%20Stuttgart%20ansteuern.){:target="_blank"} nicht intensiver recherchiert werden sollte und umgehend hinter einer Paywall verschwand, für den Artikel der **Stuttgarter Nachrichten** trifft dies ebenfalls zu, da es sich um einen identischen Beitrag handelt. Ähnlich erging es einem Artikel des **ZVW:** [*"Zahnarzt-Notfall: Patienten aus dem Kreis müssen künftig nach Stuttgart fahren"*](https://www.zvw.de/lokales/remshalden/zahnarzt-notfall-patienten-aus-dem-kreis-m%C3%BCssen-k%C3%BCnftig-nach-stuttgart-fahren_arid-451347){:target="_blank"}.
 
-**<<Wussten Sie, dass aktuell Schmerzpatienten bis zu 80km[^3] zur Zahnbehandlung fahren müssen>>**
+**Wussten Sie, dass aktuell Schmerzpatienten bis zu 80km[^3] zur Zahnbehandlung fahren müssen**
 {:.text-align-center}
 
 Bei den beiden o.g. Artikeln handelte es sich um kritische Artikel, die möglicherweise - laut unseren Informationen - noch deutlich kritischer hätten ausfallen können, wenn nicht <<interveniert>> worden wäre und selbst die verhältnismässig harmlose Kritik wurde an der Verbreitung gehindert durch die Paywall.
 
 Wie sah konkret die <<Intervention>> aus? Details wird man dazu nicht erfahren, aber jedem ist bekannt, dass unliebsame Artikel nicht auf der Wunschliste der Politik stehen. Sollte die Frage kommen, ob die sogenannte Intervention illegal war, dann ist dei Antwort ein klares "Nein" - nennen Sie es einfach sanften Druck. Wir haben keine Informationen, dass es illegale Interventionen gab. Man bezeichnet einen Artikel als nicht hilfreich, fragt sich, wieso andere Artikel hinter einer Bezahlschranke liegen, stellt dies als eine mögliche Belastung der Kommunikation dar, das Übliche eben.
 
-**<<Wir spielen mit offenen Karten>>**
+**Wir spielen mit offenen Karten**
 {:.text-align-center}
 
 Einen Monat später gab es einen weiteren Artikel und dieser soll nicht verheimlicht werden. Ein Artikel der Backnanger Kreiszeitung und diesmal selbstverständlich ohne Paywall, wie es heutzutage Usus ist bei positiven Artikeln, [*Im Notfall nach Stuttgart zum Zahnarzt*](https://www.bkz.de/nachrichten/im-notfall-nach-stuttgart-zum-zahnarzt-132874){:target="_blank"} Man lässt darin einen Zahnarzt zu Wort kommen, der sinngemäß sagt, dass es keine wirklichen zahnärztlichen Notfälle mehr gibt: *„Wirkliche Notfälle gibt es sehr, sehr wenige.“* und es sei schlicht nicht mehr rentabel für einen Zahnarzt (Notfälle zu behandeln): *„Früher, so vor etwa 15 Jahren, hatten wir beim Notfalldienst 30 bis 50 Patienten pro Tag, heute sind es mal zwei, mal sechs oder sieben“* und daraus wird die Schlussfolgerung abgeleitet *Ein Notfalldienst sei in den letzten Jahren für einen Zahnarzt kaum rentabel gewesen.*. Außerdem wird die Behauptung aufgestellt, dass *als die einzelnen Praxen noch zuständig für den Notdienst waren, seien diese zwar telefonisch erreichbar gewesen, behandelt wurde aber nur zwischen 10 und 11 Uhr und von 17 bis 18 Uhr*.
 
 Insbesondere die letzte Behauptung ist nicht korrekt bzw. irreführend, denn das war die sog. Präsenzpflicht und selbstverständlich musste der Zahnarzt nachts in die Praxis um dort einen Schmerzpatienten zu behandeln, er hatte abseits der Präsenzzeiten nur keine Präsenzpflicht, alles andere ist ein urbaner Mythos. Ebenso ist es selbstverständlich, dass die Behandlungsdauer länger als bis um 11 Uhr bzw. 18 Uhr andauert, wenn noch Patienten im Wartezimmer sitzen. Die anderen Behauptungen sind ebenfalls abenteuerlich, denn ein Notdienst muss geleistet werden und gewährleistet sein unabhängig von der Rentabilität. Ebenso könnte man anführen, dass es sich nicht lohnt kritisch Verletzte bei einem Unfall zu retten, da die Überlebenschancen in jedem Fall gering sind oder man macht nur noch ein Krankenhaus in Stuttgart für alle Kreise, vergleichbar der neuen zahnärztlichen Notdienstversorgung, rentabler ist dieses <<Konzept>> mit Sicherheit. Man muss es von der Warte der Patienten sehen, denn diese zahlen nicht wenig und erwarten dafür zumindest eine adäquate Versorgung und keine - salopp formuliert - "Verarschung"!
 
-**<<Man kann nur vor solchen Argumentationen und Gedankenspielen warnen>>**
+**Man kann nur vor solchen Argumentationen und Gedankenspielen warnen**
 {:.text-align-center}
 
 In dem Artikel wurde noch ein weiteres (Schein-)Argument ins Feld geführt, dass keine richtige Behandlung durchführt würde. Ja, das war zutreffen, jedoch nur für das Katharinenhospital Stuttgart. Dort wurde ausschliesslich eine Behandlung der Schmerzen vorgenommen. Zahnärzte bei dem Notdienst in der eigenen Praxis durften schon zuvor umfangreichere Behandlungen, wie z.B. die besagte Wurzelbehandlung vornehmen. *Von Kollegen wisse er, dass Patienten zuvor, als Notfälle noch im Katharinenhospital behandelt worden sind, nur Antibiotika und Schmerzmittel verabreicht bekamen und dann wieder zu „ihrem“ Zahnarzt geschickt wurden. „Mittlerweile wird in Stuttgart im Notfall richtig behandelt, sogar Wurzelbehandlungen werden gemacht.“* Was man zudem nicht vergessen sollte, die Zahnärzte hatten sich mit dem Katharinenhospital "geeinigt", nur eine Schmerzbehandlung durchzuführen, da es u.a. um das Risiko der Nachbehandlung ging. Ganz simpel gesprochen, angenommen Zahnarzt A macht eine Füllung und es gibt Komplikationen, ist es problematisch, wenn diese dann von Zahnarzt B behoben werden müssen. So kann man die Wirklichkeit tendenziös beschreiben, um ein Bild enstehen zu lassen, was nur wenig mit der Realität gemein hat.
 
-**<<Diesen Zeitungsbericht hätte man vermutlich besser mit dem Hinweis Werbung versehen>>**
+**Diesen Zeitungsbericht hätte man vermutlich besser mit dem Hinweis Werbung versehen**
 {:.text-align-center}
 
 > Es lässt sich unschwer erkennen, die Situation ist eine Katastrophe und man will sie schönmalen.
@@ -79,7 +79,7 @@ Es gab durchaus Stimmen, die sagten, dass diese Großpraxis von Anfang an ein Ak
 
 In diesem Fall kam es 2017 zu einer Umsetzung des Vorhabens. Unter vorgehaltener Hand wurde gemunkelt, dass man eine Art inoffiziellen Kuhhandel abgeschlossen hatte. Der Handel sollte so funktionieren, die Niederlassung in der Liststr. 43 in Stuttgart hätte auf absehbare Zeit geschlossen werden sollen und wurde es auch. Laut unseren Unterlagen fand die Schliessung Ende 2019 / Anfang 2020 statt[^7]. Es ist schlüssig, dass es so nicht als "Neugründung", sondern als "Sitzverlegung" verkauft wurde. Die Praxis in der Schloßstr. 74 wurde im September 2017 eröffnet und der Übergang sollte (angeblich) maximal 2 Jahre dauern.
 
-![Neueröffnung Schloßsstr. 74 09.09.2017](https://scontent-muc2-1.xx.fbcdn.net/v/t31.18172-8/21199586_1441510692582757_1174031534557513554_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VUIMA-dGCQMAb5zYKfA&_nc_ht=scontent-muc2-1.xx&oh=00_AfDzpfsy-cneQNClT_W-atXGxHj4rro0eWbpi0sqrunq7w&oe=663C4CB7){:.centered style="width:450px;"}
+![Neueröffnung Schloßstr. 74 09.09.2017](https://scontent-muc2-1.xx.fbcdn.net/v/t31.18172-8/21199586_1441510692582757_1174031534557513554_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VUIMA-dGCQMAb5zYKfA&_nc_ht=scontent-muc2-1.xx&oh=00_AfDzpfsy-cneQNClT_W-atXGxHj4rro0eWbpi0sqrunq7w&oe=663C4CB7){:.centered style="width:450px;"}
 
 Folgt man der Argumentation, dass es ohne die Liststr. 43 nicht zu der Schloßstr. 74 hätte kommen können, dann wäre der Grundstein (theoretisch) im Jahre 2013 gelegt worden, denn damals übernahm Dentics die Praxis von dem plötzlich verstorbenen [Vorgänger](https://web.archive.org/web/20121020044642/http://www.ihr-zahnarzt-in-stuttgart.eu/){:target="_blank"}. Man sollte bei aller Liebe zu den Detail nicht vergessen, dass es sich hierbei nur um eine Formalie handelt und die Katastrophe erst durch die Umsetzung der Großpraxis mit 9 Behandlungszimmern und einer Fläche von ca. 400qm[^8] enstand - quasi ein <<Showroom>> ohne Patienten, da es sich um eine Neugründung handelte. Hier ist noch ein Bild von der Anlieferung der neuen Behandlungsheinheiten:
 
@@ -162,6 +162,30 @@ Eine 0-Beteiligung war schon immer kritisch und dazu finden sich - man könnte f
 
 An diesem Punkt sind wir einen Schritt zurückgegangen und haben die Eröffnungsbilder vom 11.09.2017 der Schloßstr. 74 in Stuttgart analysiert. Auf einem der Bilder ist [Dr. Hess klar zu erkennen](https://scontent-muc2-1.xx.fbcdn.net/v/t31.18172-8/21586708_1451256371608189_2444521868829201031_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Ye3HWUyj2zwAb6TVDrU&_nc_ht=scontent-muc2-1.xx&oh=00_AfC157ZHjx1xIki_jt1ja3OxtMeBkAk8_0MV3XpJ4ceh2g&oe=663CE934){:target="_blank"} und auf dem [Bild am Eingang](https://scontent-muc2-1.xx.fbcdn.net/v/t31.18172-8/21543923_1451255958274897_1579400322539190735_o.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ltr-IxdIc3QAb40gbBS&_nc_ht=scontent-muc2-1.xx&oh=00_AfBhZeysQ2a2DtsXhYNP6nV0Yo_XoJqAbvCrsVz_Gf8jRg&oe=663CC2EF){:target="_blank"} ebenfalls.
 
+Wir haben nun folgenden Sachverhalt, Dr. Hess war am 11.09.2017 bei der Eröffnung dabei, schied nach eigenen Angaben Ende 2017 aus der Partnerschaft mit Dr. Jacobi aus, Dr. Jacobi setzte das Ende eigenmächtig auf den 15.06.2018 fest und die Veröffentlichung fand am 21.06.2018 statt, außerdem wurden weder Marc Derler noch Dr. Heidrun Hess am Stammkapital von Dentics beteiligt und es gab einen stillen Teilhaber.
+
+**Wie lassen sich diese Diskrepanzen erklären**
+{:.text-align-center}
+
+Zunächst muss man sagen, dass es (vermutlich) schwierig geworden wäre Marc Derler am Stammkapital zu beteiligen, da er kein Zahnarzt war und üblicherweise nur Zahnärzte am Stammkapital eines zahnärztlichen Medizinischen Versorgungszentrums (MVZ) beteiligt werden sollten. Dies ist analog zu einer GbR bei Zahnärzten zu sehen, bei dieser ist explizit ausgeschlossen, dass Dritte (Nichtzahnärzte) partizipieren und dies [trifft analog für GmbHs zu](https://www.schwarzundpartner.de/news_media/news_fuer_aerzte/beteiligung_von_berufsfremden_investoren_an_ambulanten_%C3%A4rztlichen_einrichtungen/#:~:text=Finanzinvestoren%20beteiligen%20sich%20an%20MVZs,dem%20sie%20die%20Gesch%C3%A4ftsanteile%20halten.){:target="_blank"} (Anmerkung: Ärzte und Zahnärzte sind synonym zu sehen, denn die Rechtsprechung ist vergleichbar).
+
+> Die Mehrheit der Gesellschaftsanteile und Stimmrechte muss zudem in ärztlicher Hand bleiben und *Dritte dürfen nicht am Gewinn einer Ärztegesellschaft (GmbH) beteiligt sein*.
+
+Es besteht daher der begründete Verdacht, dass Marc Derler der stille Teilhaber war und da er nicht am Gewinn der GmbH beteiligt sein durfte, eine zusätzliche Teilhabe über die stille Beteiligung erfolgen sollte. Diese Vorgehensweise deckt sich ebenfalls mit der Beobachtung, dass 2018 mit dem Ausscheiden von Marc Derler die stille Beteiligung aufgelöst wurde. Eine stille Beteiligung von Dr. Hess hätte keinen Sinn ergeben, denn Sie hätte sich direkt am Stammkapital beteiligen können und auch am Gewinn der GmbH wäre eine Teilhabe möglich gewesen.
+
+Die weiteren Nachforschungen ergaben, dass Dr. Jacobi und Marc Derler seit der Schulzeit befreundet waren und offiziell [seit 2015 als Paar auftraten](https://scontent-muc2-1.xx.fbcdn.net/v/t31.18172-8/21458129_1451255948274898_7992375021779018867_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=2z-NH_YZkxIAb5DQxqC&_nc_ht=scontent-muc2-1.xx&oh=00_AfAeh7hoIpTz4a7xfW_FzsBzpSW0yK6Sa9RcxWDaURfhBg&oe=663D1764){:target="_blank"}[^14].
+
+***Wie könnte somit die logische Erklärung lauten?***
+{:.text-align-center}
+
+Beachten Sie bitte, das ist ein Erklärungsversuch, mehr nicht und ob sich alles so im Detail zugetragen hat, ist zumindest fragwürdig.
+
+Frau Dr. Hess muss wohl spätestens im Quartal 3/2017 Verhandlungen mit Dr. Lindmayr aufgenommen haben und sich noch spätestens im Quartal 3/2017 handelseinig geworden sein. Dafür gibt es zwei logische Gründe:
+
+:ballot_box_with_check: Dr. Hess gibt an, dass die Partnerschaft mit Dr. Jacobi [2017 endete](https://www.zahnarzt-zuffenhausen.de/ueber-uns/zahnaerzte/){:target="_blank"}, damit war zwingend eine Kündigung 2017 notwendig und zwar unter Einhaltung der Frist (üblicherweise 6 Monate zu einem Quartalsende) die Partnerschaft noch 2017 beendete. Eine Frist wäre ausschliesslich bei einer Kündigung aus besonderem Grund entbehrlich.  
+
+:ballot_box_with_check: Die Übernahme der Praxis zum 01.04.2018 deutete darauf hin, dass Dr. Hess von Dr. Jacobi bei der Kündigung blockiert wurde. Nach unseren Informationen handelte es sich um einen Kündigung aus besonderem Grund (außerordentliche Kündigung) und Dr. Jacobi versuchte die Kündigung hinauszuzögern, um Dr. Hess die Übernahme zu erschweren bzw. unmöglich zu gestalten. Nachdem Dr. Hess bereits [seit dem 01.04.2018 in der ehemaligen Praxis Dr. Lindmayr praktizierte](https://web.archive.org/web/20180412113809/http://www.zahnarzt-zuffenhausen.de/){:target="_blank"} und die Zulassung auf diesen Berufsausübungsort bereits von der KZV übertragen worden war, hatte Dr. Jacobi keine andere Wahl mehr, als der Kündigung stattzugeben. Sofern das Datum 
+
 => Nur eine logische Erklärung - Arbeiten am neuen Ort ja / Vertuschung einer Kündigung aus wichtigem Grund (und zwar von Dr. Hess)
 
 Geld gezahlt für die Praxis
@@ -215,3 +239,4 @@ Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts dam
 [^11]: Normalerweise würde man denken zum 01.01., aber ein findiger Steuerprüfer hatte festgestellt, dass man an einem Feiertag (abgesehen von einem eventuelle Notdienst) üblicherweise keine Praxis übernimmt bzw. nicht an diesem Tag praktiziert. Folglich hat man die Möglichkeit am 01.01. zu übernehmen, wenn man an diesem Tag auch den Notdienst ableistet oder eben am ersten darauf folgenden Werktag. Es ist im Prinzip eine kleine Katastrophe, da der Abgeber so einn Jahresabschluss für einen bis maximal 3 Tage (der 01.01. ist ein Freitag und Samstag und Sonntag zählen nicht Werktag üblicherweise bei Ärzten und Zahnärzten) erstellen müsste. In der Praxis lässt man das jedoch unter den Tisch fallen. Bei einer Übernahme zum 01.01. entsteht eine maximale Katastrophe für den Abgeber, denn dann wird der Erlös in das Vorjahr zurückgerechnet und das kann steuerlich sehr teuer werden, sehr teuer!
 [^12]: Diese Informationen sind zu finden unter Unternehmensregister > Dokumentenansicht > Gesellschaftsvertrag / Satzung / Statut vom 19.01.2017.
 [^13]: Diese Informationen sind zu finden unter Bundesanzeiger > Jahresabschluss zum Geschäftsjahr vom 01.01.2017 bis zum 31.12.2017.
+[^14]: Schriftliche Nachweise liegen vor.
