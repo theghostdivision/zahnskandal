@@ -120,6 +120,8 @@ Eine gute Frage. Es muss etwas gravierendes im dritten oder vierten Quartal 2017
 
 Möchte man noch mehr in die Detail gehen, muss man den Bundesanzeiger in Form des [Unternehmensregisters](https://www.unternehmensregister.de/){:target="_blank"} zu Rate ziehen. In den Registerinformationen findet sich unter der Rubrik Dokumentenansicht der Eintrag vom 15.06.2018. In der Urkundenrolle Nr. 3397/2018 wird festgehalten, dass Dr. Jacobi *alleine* zum 02.05.2018 das Ausscheiden von Marc Derler und Dr. Heidrun Hess veranlasste bzw. veranlassen musste - die öffentliche Bekannmachung erfolgte dann am 21.06.2018.
 
+Es gibt Gerüchte. Ein Gerücht besagt, dass Dr. Hess eigentlich schon, wie bei Ärzten und Zahnärzten üblich, die Praxis bereits zum 01.01.2018 übernehmen wollte. Es ist deshalb Usus zum ersten Werktag nach dem 01.01. eines Jahres[^11] eine Praxis zu übernehmen.
+
 <br/>
 
 ### Teil III - Die versuchte Restrukturierung
@@ -154,3 +156,4 @@ Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts dam
 [^8]: Diese Informationen wurden aus mehreren Quellen im Internet zusammengetragen. Laut Selbstaussage betrug dei Fläche 400qm und es gab 9 Behandlungseinheiten/-zimmer.
 [^9]: Gründung 16.05.2017
 [^10]: 32 Zahnärzte (21 Alldent + 11 Dentics) / 231 Zahnärzte (Anzahl der Zahnärzte expemplarisch 31.12.2019) * 100 %
+[^11]: Normalerweise würde man denken zum 01.01., aber ein findiger Steuerprüfer hatte festgestellt, dass man an einem Feiertag (abgesehen von einem eventuelle Notdienst) üblicherweise keine Praxis übernimmt bzw. nicht an diesem Tag praktiziert. Folglich hat man die Möglichkeit am 01.01. zu übernehmen, wenn man an diesem Tag auch den Notdienst ableistet oder eben am ersten darauf folgenden Werktag. Es ist im Prinzip eine kleine Katastrophe, da der Abgeber so einn Jahresabschluss für einen bis maximal 3 Tage (der 01.01. ist ein Freitag und Samstag und Sonntag zählen nicht Werktag üblicherweise bei Ärzten und Zahnärzten) erstellen müsste. In der Praxis lässt man das jedoch unter den Tisch fallen.
