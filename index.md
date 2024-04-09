@@ -182,9 +182,9 @@ Beachten Sie bitte, das ist ein Erklärungsversuch, mehr nicht und ob sich alles
 
 Frau Dr. Hess muss wohl spätestens im Quartal 3/2017 Verhandlungen mit Dr. Lindmayr aufgenommen haben und sich noch spätestens im Quartal 3/2017 handelseinig geworden sein. Dafür gibt es zwei logische Gründe:
 
-:ballot_box_with_check: Dr. Hess gibt an, dass die Partnerschaft mit Dr. Jacobi [2017 endete](https://www.zahnarzt-zuffenhausen.de/ueber-uns/zahnaerzte/){:target="_blank"}, damit war zwingend eine Kündigung 2017 notwendig und zwar unter Einhaltung der Frist (üblicherweise 6 Monate zu einem Quartalsende) die Partnerschaft noch 2017 beendete. Eine Frist wäre ausschliesslich bei einer Kündigung aus besonderem Grund entbehrlich.  
+:heavy_check_mark: Dr. Hess gibt an, dass die Partnerschaft mit Dr. Jacobi [2017 endete](https://www.zahnarzt-zuffenhausen.de/ueber-uns/zahnaerzte/){:target="_blank"}, damit war zwingend eine Kündigung 2017 notwendig und zwar unter Einhaltung der Frist (üblicherweise 6 Monate zu einem Quartalsende) die Partnerschaft noch 2017 beendete. Eine Frist wäre ausschliesslich bei einer Kündigung aus besonderem Grund entbehrlich.  
 
-:ballot_box_with_check: Die Übernahme der Praxis zum 01.04.2018 deutete darauf hin, dass Dr. Hess von Dr. Jacobi bei der Kündigung blockiert wurde. Nach unseren Informationen handelte es sich um einen Kündigung aus besonderem Grund (außerordentliche Kündigung) und Dr. Jacobi versuchte die Kündigung hinauszuzögern, um Dr. Hess die Übernahme zu erschweren bzw. unmöglich zu gestalten. Nachdem Dr. Hess bereits [seit dem 01.04.2018 in der ehemaligen Praxis Dr. Lindmayr praktizierte](https://web.archive.org/web/20180412113809/http://www.zahnarzt-zuffenhausen.de/){:target="_blank"} und die Zulassung auf diesen Berufsausübungsort bereits von der KZV übertragen worden war, hatte Dr. Jacobi keine andere Wahl mehr, als der Kündigung stattzugeben. Sofern das Datum 
+:heavy_check_mark: Die Übernahme der Praxis zum 01.04.2018 deutete darauf hin, dass Dr. Hess von Dr. Jacobi bei der Kündigung blockiert wurde. Nach unseren Informationen handelte es sich um einen Kündigung aus besonderem Grund (außerordentliche Kündigung) und Dr. Jacobi versuchte die Kündigung hinauszuzögern, um Dr. Hess die Übernahme zu erschweren bzw. unmöglich zu gestalten. Nachdem Dr. Hess bereits [seit dem 01.04.2018 in der ehemaligen Praxis Dr. Lindmayr praktizierte](https://web.archive.org/web/20180412113809/http://www.zahnarzt-zuffenhausen.de/){:target="_blank"} und die Zulassung auf diesen Berufsausübungsort bereits von der KZV übertragen worden war, hatte Dr. Jacobi keine andere Wahl mehr, als der Kündigung stattzugeben. Sofern das Datum 
 
 => Nur eine logische Erklärung - Arbeiten am neuen Ort ja / Vertuschung einer Kündigung aus wichtigem Grund (und zwar von Dr. Hess)
 
@@ -192,13 +192,9 @@ Geld gezahlt für die Praxis
 
 Erpressung
 
-Kündigung aus wichtigem Grund
-
 Zulassung nur an einer Stelle möglich => Zwang der KZV
 
 Weg aus Ludwigsburg, aber nahe zu Ludwigsburg
-
-Derler Lebensgefährte => Bilder
 
 Kreditbetrug
 
