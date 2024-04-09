@@ -85,20 +85,26 @@ Folgt man der Argumentation, dass es ohne die Liststr. 43 nicht zu der Schloßst
 
 ![Anlieferung der Behandlungseinheiten](https://scontent-muc2-1.xx.fbcdn.net/v/t1.18169-9/20914434_1431660810234412_5696860143891234711_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=i24OET48L0sAb6MSbmb&_nc_ht=scontent-muc2-1.xx&oh=00_AfBpeXbuiJo4_qN6801pTJLxwzfqmwV56SVxecripY1Ysw&oe=663C374B){:.centered style="width:450px;"}
 
-Kenner der Materie, die lieber anonym bleiben wollen, sagen, es war eine vorpgrogrammierte Katastrophe, denn zur gleichen Zeit entstand das wesentlich besser kapitalisierte [Alldent Zahnzentrum](https://www.alldent-zahnzentrum-stuttgart.de/){:target="_blank"} (Gründung 16.05.2017). Sie müssen sich das so vorstellen, auf einen vollkommen überversorgten (150%) Markt treffen 2 neue und sehr große Mitbewerber. 2019 gab es beispielhaft 231 Zahnärzte und damit war der Versorgungsgrad ca. 155%. Alldent hat zur Zeit [21 Zahnärzte](https://www.alldent-zahnzentrum-stuttgart.de/zahnzentrum/unser-team/zahnaerzte.html){:target="_blank"} und Dentics hatte 2017 [11 Zahnärzte](https://web.archive.org/web/20170930022146/http://www.dentics.de/){:target="_blank"}. Rechnerisch würden Sie damit die Überversorgung um fast weitere 14% steigern (32/231*100 %), auf über 175%.
+Kenner der Materie, die lieber anonym bleiben wollen, sagen, es war eine vorpgrogrammierte Katastrophe, denn zur gleichen Zeit entstand das wesentlich besser kapitalisierte [Alldent Zahnzentrum](https://www.alldent-zahnzentrum-stuttgart.de/){:target="_blank"}[^9]. Sie müssen sich das so vorstellen, auf einen vollkommen überversorgten (150%) Markt treffen 2 neue und sehr große Mitbewerber. 2019 gab es beispielhaft 231 Zahnärzte und damit war der Versorgungsgrad ca. 155%. Alldent hat zur Zeit [21 Zahnärzte](https://www.alldent-zahnzentrum-stuttgart.de/zahnzentrum/unser-team/zahnaerzte.html){:target="_blank"} und Dentics hatte 2017 [11 Zahnärzte](https://web.archive.org/web/20170930022146/http://www.dentics.de/){:target="_blank"}. Rechnerisch würden Sie damit die Überversorgung um fast weitere 14%[^10] steigern, auf über 175%.
 
 **Unter der Hand sagten damals schon viele, das ist ein Suizidkommando**
 {:.text-align-center}
 
-Die Zahlen sprechen eine sehr deutliche Sprache. Die Zahlen lassen sich weder weglächeln noch wegdiskutieren.
-
-Der Totalschaden, zu dem diese <<Fehlinvestition>> geführt hat, lässt sich noch heute bei Dentics erkennen - es sind nur noch [5 Zahnärzte an einem Standort](https://www.dentics.de){:target="_blank"}.
+Die Zahlen sprechen eine sehr deutliche Sprache. Die Zahlen lassen sich weder weglächeln noch wegdiskutieren und der Totalschaden, zu dem diese <<Fehlinvestition>> geführt hat, lässt sich noch heute bei Dentics erkennen - es sind nur noch [5 Zahnärzte an einem Standort](https://www.dentics.de){:target="_blank"}.
 
 <br/>
 
-### Teil II - Die Absturz zum Start
+### Teil II - Der Absturz zum Start
 
+Bereits bei dem Start kam es offenkunding zu einen Absturz oder man könnte sagen, der <<Takeoff>> gelang nie. Es gestaltet sich schwierig auf die finanziellen Daten vor 2017 von Dentics zuzugreifen, da es 2017 zu einer Umfirmierung von zuvor einer GbR zu einer GmbH kam. Wir verweisen auf die exzellente Übersicht von [North Data zu Dentics](https://www.northdata.de/Dentics+Zahn%C3%A4rzte+GmbH,+Ludwigsburg/Amtsgericht+Stuttgart+HRB+760091){:target="_blank"}. Der Gesellschaftsvertrag wurde am 18.01.2017 erstellt und das Stammkapital betrug 100.000 €. Bis zu diesem Zeitpunkt wurde Dentics als Gemeinschaftpraxis (überörtliche Berufsausübungsgemeinschaft) in der für Zahnärzte üblichen Form einer Gesellschaft bürgerlichen Rechts (GbR) geführt.
 
+Nun gibt es ein (kleines) Problem, eine GbR muss keine Zahlen veröffentlichen - im Gegensatz zu einer GmbH, die die Zahlen im Bundesanzeiger veröffentlichen muss. Bei der finanziellen Lage von Dentics vor 2017 müssen wir uns also auf Einschätzungen verlassen. Für die Dentics Zahnärzte GmbH sind die Zahlen öffentlich verfügbar und lauten:
+
+|Jahr                |      2017|     2018|     2019|     2020|     2021|      2022|
+|:-------------------|---------:|--------:|--------:|--------:|--------:|---------:|
+|Jahresüberschuss HGB|-114.094 €|-93.899 €|-99.050 €|-97.080 €|195.011 €|-192.366 €|
+
+Es ist ganz klar ersichtlich, dass Dentics <<nie vom Boden wegkam>> und bis auf das Jahr 2021 permanent ein Verlustgeschäft war. Das Jahr 2021, dazu werden wir später noch kommen, ist ein Sonderfall, da 2021 die Übernahme der Schloßstr. 74 erfolgte und nach unserer Erkenntnis es sich um Buchgewinne durch den Verkauf handelte. Somit ist es fragwürdig ob überhaupt in der gesamten Historie der Dentics Zahnärzte GmbH jemals ein Gewinn aus dem operativen Geschäft erzielt wurde.
 
 ### Teil III - Die versuchte Restrukturierung
 
@@ -115,6 +121,7 @@ https://www.northdata.de/Dentics+Zahn%C3%A4rzte+GmbH,+Ludwigsburg/Amtsgericht+St
 Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts damit zu tun, 10 Jahre später und danach einen Zahnskandal für die Bevölkerung zu 
 
 *[apoBank]: Deutsche Apotheker- und Ärztebank
+*[GbR]: Gesellschaft bürgerlichen Rechts
 *[KZV]: Kassenzahnärztliche Vereinigung
 *[Paywall]: Bezahlschranke
 *[PGP]: Pretty Good Privacy
@@ -127,3 +134,5 @@ Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts dam
 [^6]: Relevant ist jeweils die Spalte 11. Die Spalte 5 bezieht sich darauf, wie viele Zahnärzte notwendig sind, um einen Versorgungsgrad von 100% zu erreichen.
 [^7]: Eine offizielle Bestätigung steht noch aus. Wir haben unsere Daten mit der [Wayback Machine](https://web.archive.org/){:target="_blank"} ermittelt. 2020 tauchte die Liststr. nicht mehr bei den Praxen auf ([Wayback Machine DENTICS 2020](https://web.archive.org/web/20200814023652/https://www.dentics.de/){:target="_blank"}), 2010 aber sehr wohl ([Wayback Machine DENTICS 2019](https://web.archive.org/web/20190129072234/https://www.dentics.de/){:target="_blank"}). Folglich fand die Schliessung zwischen dem August 2019 und August 2020 statt, die Vermutung liegt nahe, dass die Schliessung noch 2019 stattfand bzw. bereits beschlossen war.
 [^8]: Diese Informationen wurden aus mehreren Quellen im Internet zusammengetragen. Laut Selbstaussage betrug dei Fläche 400qm und es gab 9 Behandlungseinheiten/-zimmer.
+[^9]: Gründung 16.05.2017
+[^10]: 32 Zahnärzte (21 Alldent + 11 Dentics) / 231 Zahnärzte (Anzahl der Zahnärzte expemplarisch 31.12.2019) * 100 %
