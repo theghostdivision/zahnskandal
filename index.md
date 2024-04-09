@@ -77,14 +77,34 @@ Es ist schwer den exakten Zeitpunkt zu bestimmen, an dem alles anfing. Einige sa
 
 Es gab durchaus Stimmen, die sagten, dass diese Großpraxis von Anfang an ein Akt des Wahnsinns war oder zumindest ein tollkühnes Vorhaben, denn der [Versorgungsgrad](https://www.kzvbw.de/wp-content/uploads/BD-Stuttgart_Bedarfsplan_31.12.2022.pdf){:target="_blank"}[^6] in Stuttgart liegt derzeit bei ca. 150%. Laut unseren Informationen war die Lage 2017 nicht signifikant abweichend und der [(Über)Versorgungsgrad](https://www.kzvbw.de/wp-content/uploads/bd-stuttgart_bedarfsplan_31.12.2019.pdf){:target="_blank"}[^6] war z.B. 2019 sogar noch höher mit ca. 155%. Bei diesen Zahlen stellt sich die Frage, wie solch ein Projekt überhaupt genehmigt werden konnte. Eine Großpraxis als Neugründung - ohne Patientenstamm im Gegensatz zu einer Übername - in einem überversorgten Gebiet. Üblicherweise lässt sowohl die KZV als auch der Kapitalgeber (idR. die apoBank) von solchen Vorhaben die Finger, da das Risiko nur schwer kalkulierbar ist.
 
-In diesem Fall kam es 2017 zu einer Umsetzung des Vorhabens. Unter vorgehaltener Hand wurde gemunkelt, dass man eine Art inoffiziellen Kuhhandel abgeschlossen hatte. Der Handel sollte so funktionieren, Niederlassung in der Liststr. 43 in Stuttgart hätte auf absehbare Zeit geschlossen werden sollen und wurde es auch. Laut unseren Unterlagen fand die Schliessung Ende 2019 / Anfang 2020 statt[^7]. Es ist schlüssig, dass es so nicht als "Neugründung", sondern als "Sitzverlegung" verkauft wurde. Die Praxis in der Schloßstr. 74 wurde im September 2017 eröffnet und der Übergang sollte (angeblich) maximal 2 Jahre dauern.
+In diesem Fall kam es 2017 zu einer Umsetzung des Vorhabens. Unter vorgehaltener Hand wurde gemunkelt, dass man eine Art inoffiziellen Kuhhandel abgeschlossen hatte. Der Handel sollte so funktionieren, die Niederlassung in der Liststr. 43 in Stuttgart hätte auf absehbare Zeit geschlossen werden sollen und wurde es auch. Laut unseren Unterlagen fand die Schliessung Ende 2019 / Anfang 2020 statt[^7]. Es ist schlüssig, dass es so nicht als "Neugründung", sondern als "Sitzverlegung" verkauft wurde. Die Praxis in der Schloßstr. 74 wurde im September 2017 eröffnet und der Übergang sollte (angeblich) maximal 2 Jahre dauern.
 
 ![Neueröffnung Schloßsstr. 74 09.09.2017](https://scontent-muc2-1.xx.fbcdn.net/v/t31.18172-8/21199586_1441510692582757_1174031534557513554_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VUIMA-dGCQMAb5zYKfA&_nc_ht=scontent-muc2-1.xx&oh=00_AfDzpfsy-cneQNClT_W-atXGxHj4rro0eWbpi0sqrunq7w&oe=663C4CB7){:.centered style="width:450px;"}
 
-Folgt man der Argumentation, dass ohne die Liststr. 43 es nicht zu der Schloßstr. 74 hätte kommen können, dann wäre der Grundstein (theoretisch) im Jahre 2013 gelegt worden, denn damals wurde die Praxis von dem plötzlich verstorbenen [Vorgänger](https://web.archive.org/web/20121020044642/http://www.ihr-zahnarzt-in-stuttgart.eu/){:target="_blank"} übernommen.
+Folgt man der Argumentation, dass es ohne die Liststr. 43 nicht zu der Schloßstr. 74 hätte kommen können, dann wäre der Grundstein (theoretisch) im Jahre 2013 gelegt worden, denn damals übernahm Dentics die Praxis von dem plötzlich verstorbenen [Vorgänger](https://web.archive.org/web/20121020044642/http://www.ihr-zahnarzt-in-stuttgart.eu/){:target="_blank"}. Man sollte bei aller Liebe zu den Detail nicht vergessen, dass es sich hierbei nur um eine Formalie handelt und die Katastrophe erst durch die Umsetzung der Großpraxis mit 9 Behandlungszimmern und einer Fläche von ca. 400qm[^8] enstand - quasi ein <<Showroom>> ohne Patienten, da es sich um eine Neugründung handelte. Hier ist noch ein Bild von der Anlieferung der neuen Behandlungsheinheiten:
+
+![Anlieferung der Behandlungseinheiten](https://scontent-muc2-1.xx.fbcdn.net/v/t1.18169-9/20914434_1431660810234412_5696860143891234711_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=i24OET48L0sAb6MSbmb&_nc_ht=scontent-muc2-1.xx&oh=00_AfBpeXbuiJo4_qN6801pTJLxwzfqmwV56SVxecripY1Ysw&oe=663C374B){:.centered style="width:450px;"}
+
+Kenner der Materie, die lieber anonym bleiben wollen, sagen, es war eine vorpgrogrammierte Katastrophe, denn zur gleichen Zeit entstand das wesentlich besser kapitalisierte [Alldent Zahnzentrum](https://www.alldent-zahnzentrum-stuttgart.de/){:target="_blank"} (Gründung 16.05.2017). Sie müssen sich das so vorstellen, auf einen vollkommen überversorgten (150%) Markt treffen 2 neue und sehr große Mitbewerber. 2019 gab es beispielhaft 231 Zahnärzte und damit war der Versorgungsgrad ca. 155%. Alldent hat zur Zeit [21 Zahnärzte](https://www.alldent-zahnzentrum-stuttgart.de/zahnzentrum/unser-team/zahnaerzte.html){:target="_blank"} und Dentics hatte 2017 [11 Zahnärzte](https://web.archive.org/web/20170930022146/http://www.dentics.de/){:target="_blank"}. Rechnerisch würden Sie damit die Überversorgung um fast weitere 14% steigern (32/231*100 %), auf über 175%.
+
+**Unter der Hand sagten damals schon viele, das ist ein Suizidkommando**
+{:.text-align-center}
+
+Die Zahlen sprechen eine sehr deutliche Sprache. Die Zahlen lassen sich weder weglächeln noch wegdiskutieren.
+
+Der Totalschaden, zu dem diese <<Fehlinvestition>> geführt hat, lässt sich noch heute bei Dentics erkennen - es sind nur noch [5 Zahnärzte an einem Standort](https://www.dentics.de){:target="_blank"}.
+
+<br/>
+
+### Teil II - Die Absturz zum Start
 
 
-https://scontent-muc2-1.xx.fbcdn.net/v/t1.18169-9/20914434_1431660810234412_5696860143891234711_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=i24OET48L0sAb6MSbmb&_nc_ht=scontent-muc2-1.xx&oh=00_AfBpeXbuiJo4_qN6801pTJLxwzfqmwV56SVxecripY1Ysw&oe=663C374B
+
+### Teil III - Die versuchte Restrukturierung
+
+### Teil IV - Die Notübernahme durch die KZV
+
+### Teil V - Die Neuordnung der Notversorgung I & II
 
 Darlehenssumme
 
@@ -93,14 +113,6 @@ https://www.northdata.de/Dentics+Zahn%C3%A4rzte+GmbH,+Ludwigsburg/Amtsgericht+St
 > Ich kann nur warnen, dieser Argumentation blind zu folgen
 
 Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts damit zu tun, 10 Jahre später und danach einen Zahnskandal für die Bevölkerung zu 
-
-### Teil II - Die Absturz zum Start
-
-### Teil III - Die versuchte Restrukturierung
-
-### Teil IV - Die Notübernahme durch die KZV
-
-### Teil V - Die Neuordnung der Notversorgung I & II
 
 *[apoBank]: Deutsche Apotheker- und Ärztebank
 *[KZV]: Kassenzahnärztliche Vereinigung
@@ -114,3 +126,4 @@ Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts dam
 [^5]: Eine offizielle solche Bezeichnung gab es nicht, es wurde angeblich von vielen inoffziell (und scherzfahft) so genannt, vermutlich in Anlehnung an das [Alldent](https://www.alldent-zahnzentrum-stuttgart.de/){:target="_blank"}-Zahnzentrum.
 [^6]: Relevant ist jeweils die Spalte 11. Die Spalte 5 bezieht sich darauf, wie viele Zahnärzte notwendig sind, um einen Versorgungsgrad von 100% zu erreichen.
 [^7]: Eine offizielle Bestätigung steht noch aus. Wir haben unsere Daten mit der [Wayback Machine](https://web.archive.org/){:target="_blank"} ermittelt. 2020 tauchte die Liststr. nicht mehr bei den Praxen auf ([Wayback Machine DENTICS 2020](https://web.archive.org/web/20200814023652/https://www.dentics.de/){:target="_blank"}), 2010 aber sehr wohl ([Wayback Machine DENTICS 2019](https://web.archive.org/web/20190129072234/https://www.dentics.de/){:target="_blank"}). Folglich fand die Schliessung zwischen dem August 2019 und August 2020 statt, die Vermutung liegt nahe, dass die Schliessung noch 2019 stattfand bzw. bereits beschlossen war.
+[^8]: Diese Informationen wurden aus mehreren Quellen im Internet zusammengetragen. Laut Selbstaussage betrug dei Fläche 400qm und es gab 9 Behandlungseinheiten/-zimmer.
