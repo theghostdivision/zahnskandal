@@ -96,7 +96,7 @@ Die Zahlen sprechen eine sehr deutliche Sprache. Die Zahlen lassen sich weder we
 
 ### Teil II - Der Absturz zum Start
 
-Bereits bei dem Start kam es offenkunding zu einen Absturz oder man könnte sagen, der <<Takeoff>> gelang nie. Es gestaltet sich schwierig auf die finanziellen Daten vor 2017 von Dentics zuzugreifen, da es 2017 zu einer Umfirmierung von zuvor einer GbR zu einer GmbH kam. Wir verweisen auf die exzellente Übersicht von [North Data zu Dentics](https://www.northdata.de/Dentics+Zahn%C3%A4rzte+GmbH,+Ludwigsburg/Amtsgericht+Stuttgart+HRB+760091){:target="_blank"}. Der Gesellschaftsvertrag wurde am 18.01.2017 erstellt und das Stammkapital betrug 100.000 €. Bis zu diesem Zeitpunkt wurde Dentics als Gemeinschaftpraxis (überörtliche Berufsausübungsgemeinschaft) in der für Zahnärzte üblichen Form einer Gesellschaft bürgerlichen Rechts (GbR) geführt.
+Bereits bei dem Start kam es offenkunding zu einen Absturz oder man könnte sagen, der <<Takeoff>> gelang nie. Es gestaltet sich schwierig auf die finanziellen Daten vor 2017 von Dentics zuzugreifen, da es 2017 zu einer Umfirmierung von zuvor einer GbR zu einer GmbH kam. Wir verweisen auf die exzellente Übersicht von [North Data](https://www.northdata.de){:target="_blank"} zu [Dentics](https://www.northdata.de/Dentics+Zahn%C3%A4rzte+GmbH,+Ludwigsburg/Amtsgericht+Stuttgart+HRB+760091){:target="_blank"}. Der Gesellschaftsvertrag wurde am 18.01.2017 erstellt und das Stammkapital betrug 100.000 €. Bis zu diesem Zeitpunkt wurde Dentics als Gemeinschaftpraxis (überörtliche Berufsausübungsgemeinschaft) in der für Zahnärzte üblichen Form einer Gesellschaft bürgerlichen Rechts (GbR) geführt.
 
 Nun gibt es ein (kleines) Problem, eine GbR muss keine Zahlen veröffentlichen - im Gegensatz zu einer GmbH, die die Zahlen im Bundesanzeiger veröffentlichen muss. Bei der finanziellen Lage von Dentics vor 2017 müssen wir uns also auf Einschätzungen verlassen. Für die Dentics Zahnärzte GmbH sind die Zahlen öffentlich verfügbar und lauten:
 
@@ -111,12 +111,12 @@ Ganz anders sah offenbar es in den Jahren vor 2016 aus. Unter der Hand wurde uns
 **Beweis: Lebensweisheit**
 {:.text-align-center}
 
-Wer das nicht glaubt, kann gerne Darlehen bei einer Bank für die nächste vorab geplante <<Notfallpraxis der KZV>> anfordern und berichten. 
+Wer das nicht glaubt, kann gerne Darlehen bei einer Bank für die nächste vorab geplante <<Notfallpraxis der KZV>> anfordern und berichten. Ja, das ist zynisch, aber nicht zu unrecht, wenn man bedenkt, wie viele Schmerzpatienten darunter zu leiden haben.
 
-*Wie kam es dann zu dem plötzlichen Absturz?*
+***Wie kam es dann zu dem plötzlichen Absturz?***
 {:.text-align-center}
 
-Eine gute Frage. Es muss etwas gravierendes im dritten oder vierten Quartal 2017 vorgefallen sein. 
+Eine gute Frage. Es muss etwas gravierendes im dritten oder vierten Quartal 2017 vorgefallen sein. Die ehemalige Partnerin von Dr. Jacobi, [Dr. Hess, übernahm zum 01.04.2018 die Zahnarztpraxis von Dr. Lindmayr in Stuttgart-Zuffenhausen](https://web.archive.org/web/20180412113809/http://www.zahnarzt-zuffenhausen.de/){:target="_blank"}. Das ist in der Tat sehr bemerkenswert, denn offiziell schied Dr. Hess erst zum [21.06.2018](https://www.northdata.de/?id=4792086442){:target="_blank"} von Dentics aus und Sie schied gemeinsam mit dem dritten Geschäftsführer [Marc Derler](https://www.northdata.de/?id=4792086442){:target="_blank"} aus. Möchte man noch mehr in die Detail gehen, muss man den Bundesanzeiger in Form des [Unternehmensregisters](https://www.unternehmensregister.de/){:target="_blank"} zu Rate ziehen. In den Registerinformationen findet sich unter der Rubrik Dokumentenansicht der Eintrag vom 15.06.2018. In der Urkundenrolle Nr. 3397/2018 wird festgehalten, dass Dr. Jacobi *alleine* zum 02.05.2018 das Ausscheiden von Marc Derler und Dr. Heidrun Hess veranlasste bzw. veranlassen musste - die öffentliche Bekannmachung erfolgte dann am 21.06.2018.
 
 <br/>
 
