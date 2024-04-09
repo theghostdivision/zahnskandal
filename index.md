@@ -172,7 +172,7 @@ Kündigung aus wichtigem Grund
 
 Zulassung nur an einer Stelle möglich => Zwang der KZV
 
-Weg aus Ludwigsburg
+Weg aus Ludwigsburg, aber nahe zu Ludwigsburg
 
 Derler Lebensgefährte => Bilder
 
