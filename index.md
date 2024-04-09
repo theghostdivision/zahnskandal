@@ -75,7 +75,8 @@ Die Vorgeschichte handelt davon, wie sich die Katastrophe entwickelte und ab wan
 
 Es ist schwer den exakten Zeitpunkt zu bestimmen, an dem alles anfing. Einige sagen, es war 2012, andere sagen, es war 2017. Auslöser der Katatstrophe war **[DENTICS](https://www.dentics.de){:target="_blank"}[^4]** und deren Fehlinvestition in deren 2017 neu gegründetes "Zahnzentrum"[^5] oder Großpraxis in der Schloßstr. 74 in Stuttgart.
 
-Die Vorgeschichte ist schnell erzählt oder auch nicht. Es kommt darauf an, wem man glaubt und ich sage dies mit Absicht, denn Personen, die tief darinsteckten, behaupteten, alles wäre von Anfang an geplant gewesen.
+Es gab durchaus Stimmen, die sagten, dass diese Großpraxis von Anfang an ein AKt des Wahnsinns war oder zumindest ein tollkühnes Vorhaben, denn der [Versorgungsgrad](https://www.kzvbw.de/wp-content/uploads/BD-Stuttgart_Bedarfsplan_31.12.2022.pdf){:target="_blank"} in Stuttgart liegt derzeit bei ca. 150%. Laut unseren Informationen war die Lage 2017 nicht signifikant abweichend und der [(Über)Versorgungsgrad](https://www.kzvbw.de/wp-content/uploads/bd-stuttgart_bedarfsplan_31.12.2019.pdf){:target="_blank"} war z.B. 2019 sogar noch höher mit ca. 155%-
+
 
 
 https://scontent-muc2-1.xx.fbcdn.net/v/t1.18169-9/20914434_1431660810234412_5696860143891234711_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=i24OET48L0sAb6MSbmb&_nc_ht=scontent-muc2-1.xx&oh=00_AfBpeXbuiJo4_qN6801pTJLxwzfqmwV56SVxecripY1Ysw&oe=663C374B
