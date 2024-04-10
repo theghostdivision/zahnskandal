@@ -184,7 +184,31 @@ Frau Dr. Hess muss wohl spätestens im Quartal 3/2017 Verhandlungen mit Dr. Lind
 
 :heavy_check_mark: Dr. Hess gibt an, dass die Partnerschaft mit Dr. Jacobi [2017 endete](https://www.zahnarzt-zuffenhausen.de/ueber-uns/zahnaerzte/){:target="_blank"}, damit war zwingend eine Kündigung 2017 notwendig und zwar unter Einhaltung der Frist (üblicherweise 6 Monate zu einem Quartalsende) die Partnerschaft noch 2017 beendete. Eine Frist wäre ausschliesslich bei einer Kündigung aus besonderem Grund entbehrlich.  
 
-:heavy_check_mark: Die Übernahme der Praxis zum 01.04.2018 deutete darauf hin, dass Dr. Hess von Dr. Jacobi bei der Kündigung blockiert wurde. Nach unseren Informationen handelte es sich um einen Kündigung aus besonderem Grund (außerordentliche Kündigung) und Dr. Jacobi versuchte die Kündigung hinauszuzögern, um Dr. Hess die Übernahme zu erschweren bzw. unmöglich zu gestalten. Nachdem Dr. Hess bereits [seit dem 01.04.2018 in der ehemaligen Praxis Dr. Lindmayr praktizierte](https://web.archive.org/web/20180412113809/http://www.zahnarzt-zuffenhausen.de/){:target="_blank"} und die Zulassung auf diesen Berufsausübungsort bereits von der KZV übertragen worden war, hatte Dr. Jacobi keine andere Wahl mehr, als der Kündigung stattzugeben. Wir gehen davon aus, dass Dr. Jacobi die (mutmassliche) außerordentliche Kündigung in eine ordentliche Kündigung mit 6 Monaten Kündigungsfrist umdeutete und die Kündigung daher zum 02.11.2017 (02.05.2018 minus 6 Monate) erfolgte. Diese versuchte Dr. Jacobi dann in eine reguläre Kündigung, mutmasslich zum 30.06.2018 umzudeuten. Nachdem Dr. Hess bereits zum 01.04.2018 in der neuen Praxis praktizierte und die Zulassung übergegangen war, wurde der Druck zu groß und Dr. Jacobi musste eigenständig die Entlassung veranlassen, da Dr. Hess (vermutlich) nicht bereit war eine Kündigung nach dem 01.04.2018 zu aktzeptieren - Sie konnte es schlicht nicht. Ebenfalls ist davon auszugehen, dass die (Zahnärzte)Kammer ein Machtwort sprach und der Zulassung an dem neuen Standort von Dr. Hess zustimmmte, um ein eventuelles längeres (zivilrechtliches) Verfahren zu vermeiden.
+:heavy_check_mark: Die Übernahme der Praxis zum 01.04.2018 deutete darauf hin, dass Dr. Hess von Dr. Jacobi bei der Kündigung blockiert wurde. Nach unseren Informationen handelte es sich um einen Kündigung aus besonderem Grund (außerordentliche Kündigung) und Dr. Jacobi versuchte die Kündigung hinauszuzögern, um Dr. Hess die Übernahme zu erschweren bzw. unmöglich zu gestalten. Nachdem Dr. Hess bereits [seit dem 01.04.2018 in der ehemaligen Praxis Dr. Lindmayr praktizierte](https://web.archive.org/web/20180412113809/http://www.zahnarzt-zuffenhausen.de/){:target="_blank"} und die Zulassung auf diesen Berufsausübungsort bereits von der KZV übertragen worden war, hatte Dr. Jacobi keine andere Wahl mehr, als der Kündigung stattzugeben.
+
+Wir gehen davon aus, dass Dr. Jacobi die (mutmassliche) außerordentliche Kündigung in eine ordentliche Kündigung mit 6 Monaten Kündigungsfrist umdeutete und die Kündigung daher zum 02.11.2017 (02.05.2018 minus 6 Monate) erfolgte. Diese versuchte Dr. Jacobi dann in eine reguläre Kündigung, mutmasslich zum 30.06.2018 umzudeuten. Nachdem Dr. Hess bereits zum 01.04.2018 in der neuen Praxis praktizierte und die Zulassung übergegangen war, wurde der Druck zu groß und Dr. Jacobi musste eigenständig die Entlassung veranlassen, da Dr. Hess (vermutlich) nicht bereit war eine Kündigung nach dem 01.04.2018 zu aktzeptieren - Sie konnte es schlicht nicht. Ebenfalls ist davon auszugehen, dass die (Zahnärzte)Kammer ein Machtwort sprach und der Zulassung an dem neuen Standort von Dr. Hess zustimmmte, um ein eventuelles längeres (zivilrechtliches) Verfahren zu vermeiden.
+
+**Fassen wir kurz die Strategien zusammen**
+{:.text-align-center}
+
+Eine ordentliche reguläre Kündigung von Dr. Hess fällt aus, denn dann wären die Angaben nicht so <<auseinandergefallen>>.
++ Dr. Hess gab an, dass die Partnerschaft bis Ende 2017 bestand, Dr. Jacobi gab an, dass die Kündigung zum 02.05.2018 erfolgte und die öffentliche Bekanntmachung fand am 21.06.2018 statt.
++ Dr. Hess praktizierte bereits seit dem 01.04.2018 in der Praxis Lindmayr, d.h. noch vor der angeblichen Kündigung durch Dr. Jacobi und es besteht die Vermutung, dass Dr. Jacobi durch Ihre Strategie eine Übergabe zum 01.01.2018 bewußt vereitelte.
+
+Die Strategien von Dr. Jacobi waren absolute Verzweiflungsstrategien. Es ist sonnenklar, dass eine Schädigung des ehemaligen Partners katastrophale Signale an alle bestehenden Mitarbeiter sendet. Der Tradeoff war, dass eine außerordentliche Kündigung (möglicherweise) noch mehr Schaden verursacht hätte - eventuell sogar einen existenziellen Schaden - besonders bei einem öffentlichen Verfahren. Insider deuteten an, dass die KZV deswegen ein Machtwort gesprochen und die Zulassung zum 01.04.2018 für den neuen Standort veranlasst hatte, um ein öffentliches Verfahren zu vermeiden und so wird ebenfalls gemunkelt, dass ein Teil des Deals war, dass auch Herr Derler gehen musste.
+
+**Bei einer Recherche ist es essentiell den Sachverhalt aus allen Perspektiven zu betrachten**
+{:.text-align-center}
+
+Der Qualifikation von Herrn Derler nach zu schliessen, sollte er wohl der kaufmännische Leiter bzw. Manager sein und Dr. Jacobi und Dr. Hess waren die (zahn)ärztlichen Leiterinnen. 
+
+Nicht gereicht
+
+Verheerend wegen Wegfall von Dr. Hess
+
+Patienten Stuttgart (anderer KZV-Bezirk) => von langer Hand geplant
+
+Kreditampel
 
 Diese Erklärungsversuche sind schlüssig und ergeben Sinn. 
 
