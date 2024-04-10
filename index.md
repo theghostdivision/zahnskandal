@@ -212,7 +212,7 @@ Unser Verdacht ist, dass man eine <<kostspielige Scheidung>> vermeiden wollte un
 
 Höchstwahrscheinlich oder vermutlich teilte Dr. Hess dies zu Anfang des letzten Quartals 2017 mit und Dr. Jacobi hätte es in jedem Fall mitbekommen, da es sich um eine <<gemeinsame>> Zulassung handelte. Im letzten Quartal eskalierte die Situation komplett, höchstwahrscheinlich wurde massiv Druck auf Dr. Hess ausgeübt und Dr. Hess machte im Zuge dessen von Ihrem außerordentlichen Kündigungsrecht Gebrauch. Woraufhin Dr. Jacobi die Kündigung möglichst lange zu strecken versuchte (bis zum 30.06.2018) und Dr. Hess die Arbeit zum 31.12.2017 einstellte. Diese untragbare Situation wurde dadurch gelöst, dass die KZV die Übertragung der Zulassung von Dr. Hess auf die neue Praxis zum 01.04.2018 genehmigt und Dr. Jacobi war gewzungen der Kündigung Folge zu leisten, daher trug Sie diese alleine zum 02.05.2018 ein und eine öffentliche Bekannmachung erfolgte zum 21.06.2018, somit fast zum 30.06.2018, damit diese noch einigermassen gesichtswahrend für Dr. Jacobi erschien.
 
-Die Folgen für Dr. Jacobi erwiesen sich als verheerend. Mit Dr. Hess schied Ihre ehemalige Parterin aus und dies hat (zwingend) Auswirkungen auf die Kreditwürdigkeit, da Dr. Hess als Parterin (gezwungenermassen) ein Teil des [unternehmerischen Risikos]([Artikel](https://www.medizintechnikmarkt.de/blog/berufsausuebungsgemeinschaft#h2-11){:target="_blank"}) trug. Folglich kam es zu einem weiteren Niedergang in den Folgejahren mangels stillen Teilhabers, der ebenfalls 2018 ausschied und mangels weiteren Partners, der sich nicht mehr auftreiben liess[^17].
+Die Folgen für Dr. Jacobi erwiesen sich als verheerend. Mit Dr. Hess schied Ihre ehemalige Parterin aus und dies hat (zwingend) Auswirkungen auf die Kreditwürdigkeit, da Dr. Hess als Parterin (gezwungenermassen) ein Teil des [unternehmerischen Risikos](https://www.medizintechnikmarkt.de/blog/berufsausuebungsgemeinschaft#h2-11){:target="_blank"} trug. Folglich kam es zu einem weiteren Niedergang in den Folgejahren mangels stillen Teilhabers, der ebenfalls 2018 ausschied und mangels weiteren Partners, der sich nicht mehr auftreiben liess[^17].
 
 **An dieser Stelle nochmals der Verweis auf die öffentlich verfügbaren Zahlen:**
 
@@ -232,6 +232,24 @@ Aus unserer Sicht ist alles <<ausermittelt>>, ob Marc Derler sich einer möglich
 
 ### Teil III - Die versuchte Restrukturierung
 
+In Jahren ab 2018 bis 2021 versuchte man eine Restrukturierung von DENTICS und DENTICSDC. Bei DENTICSDC handelt es sich um die Privatklinic §30 GwO, die sich mit DENTICS die Räumlichkeiten in der Danziger Str. 40 in Ludwigsburg teilt.
+
+Die DENTICSDC Dental Clinic hatte zusätzlich ein zahntechnisches Labor, dass (angeblich) von 2015 bis 2017 in der Kurfürstenstr. 22 in Ludwigsburg betrieben wurde. Uns wurde mitgeteilt, dass an diesem Standort eine gesamte Etage für das zahntechnische Labor und die Verwaltung angemietet war. Von den Umrissen des Gebäudes gehen wir von einer Größe von 200qm bis 250qm aus, was eine sehr respektable Größe darstellen würde.
+
+Das Labor und die Verwaltung wurden 2017 angeblich nach Stuttgart in die Schloßstr. 74 verlegt. Als Nachweis haben wir ein [Foto](https://scontent-muc2-1.xx.fbcdn.net/v/t1.18169-9/20953165_1433853350015158_6398147036248084102_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=rCUkcCa3emQAb7px3rd&_nc_ht=scontent-muc2-1.xx&oh=00_AfDb59K-_Kil0vkKUlcrOA3wLcUeh7PrnBSUA1vECfTW2Q&oe=663E062B){:target="_blank"} und einen [Beitrag in den sozialen Medien](https://www.facebook.com/photo?fbid=1433853350015158&set=a.756198327780667){:target="_blank"}, auf dem die Fähigkeiten des Labors am neuen Standort hervorgehoben werden.
+
+**Zwischenfazit:** Die Verlegung des Labors als Restrukturierung zu bezeichnen erscheint etwas gewagt und es gibt zu wenig öffentliche Informationen, die die Aussagen unabhängig stützen würden. Abgesehen davon wäre der Sinn der Maßnahme zu hinterfragen, denn bei der Schloßstr. in Stuttgart handelte es sich um eine Neugründung und der überwiegende Teil des bestehenden Patientenstamms war in Ludwigsburg. Man hätte somit einen Shuttleservice für sämtliche Arbeiten einrichten müssen und ob dies sinnvoll gewesen wäre darf bezeifelt werden. Gesichert ist jedoch, dass das Labor Stand 2024 nicht mehr besteht und mutmaßlich sämtliche Gerätschaften in den Jahren 2017 bis 2020 abverkauft wurden.
+
+|             Jahr|        2015|        2016|        2017|        2018|        2019|       2020|       2021|       2020|
+|----------------:|-----------:|-----------:|-----------:|-----------:|-----------:|----------:|----------:|----------:|
+|   Anlagevermögen|127.304,00 €|162.837,88 €|143.509,00 €| 92.406,00 €| 52.474,00 €|   598,00 €|     0,00 €|     0,00 €|
+|Verbindlichkeiten|113.462,18 €|249.769,80 €|669.686,14 €|645.006,85 €|286.137,67 €|44.894,37 €|38.503,74 €|26.966,20 €|
+|     Eigenkapital|529,220,52 €|409.512,81 €| 25.897,83 €|  7.837,24 €|  7.115,32 €|15.282,13 €| 7.577,53 €|22.786,79 €|
+
+**Einschätzung: wenig glaubhaft und nicht plausibel**
+{:.text-align-center}
+
+
 
 
 ### Teil IV - Die Notübernahme durch die KZV
@@ -247,6 +265,8 @@ https://www.northdata.de/Dentics+Zahn%C3%A4rzte+GmbH,+Ludwigsburg/Amtsgericht+St
 Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts damit zu tun, 10 Jahre später und danach einen Zahnskandal für die Bevölkerung zu 
 
 *[apoBank]: Deutsche Apotheker- und Ärztebank
+*[DENTICS]: DENTICS Zahnärzte GmbH
+*[DENTICSDC]: DENTICSDC Dental Clinic GmbH & Co. KG
 *[GbR]: Gesellschaft bürgerlichen Rechts
 *[KZV]: Kassenzahnärztliche Vereinigung
 *[Paywall]: Bezahlschranke
