@@ -55,6 +55,10 @@ img.centered {
   margin-right: auto;
 }
 
+table {
+  font-size: 0.9rem;
+}
+
 ul {
   margin-bottom: 1.25rem;
 }
@@ -117,6 +121,11 @@ ul {
 
 .sidebar-social>ul>li>a {
   height: 3.5rem;
+}
+
+.table-small {
+  font-size: 0.75rem;
+  margin-bottom: 0.5rem!important;
 }
 
 .text-align-center {

@@ -230,9 +230,9 @@ Aus unserer Sicht ist alles <<ausermittelt>>, ob Marc Derler sich einer möglich
 
 <br/>
 
-### Teil III - Die versuchte Restrukturierung
+### Teil III - Der Restrukturierungsversuch
 
-In Jahren ab 2018 bis 2021 versuchte man eine Restrukturierung von DENTICS und DENTICSDC. Bei DENTICSDC handelt es sich um die Privatklinic §30 GwO, die sich mit DENTICS die Räumlichkeiten in der Danziger Str. 40 in Ludwigsburg teilt.
+In Jahren ab 2018 bis 2021 versuchte man eine Restrukturierung von DENTICS und DENTICSDC. Bei DENTICSDC handelt es sich um eine Privatklinic § 30 GwO, die sich mit DENTICS die Räumlichkeiten in der Danziger Str. 40 in Ludwigsburg teilt.
 
 Die DENTICSDC Dental Clinic hatte zusätzlich ein zahntechnisches Labor, dass (angeblich) von 2015 bis 2017 in der Kurfürstenstr. 22 in Ludwigsburg betrieben wurde. Uns wurde mitgeteilt, dass an diesem Standort eine gesamte Etage für das zahntechnische Labor und die Verwaltung angemietet war. Von den Umrissen des Gebäudes gehen wir von einer Größe von 200qm bis 250qm aus, was eine sehr respektable Größe darstellen würde.
 
@@ -240,17 +240,34 @@ Das Labor und die Verwaltung wurden 2017 angeblich nach Stuttgart in die Schloß
 
 **Zwischenfazit:** Die Verlegung des Labors als Restrukturierung zu bezeichnen erscheint etwas gewagt und es gibt zu wenig öffentliche Informationen, die die Aussagen unabhängig stützen würden. Abgesehen davon wäre der Sinn der Maßnahme zu hinterfragen, denn bei der Schloßstr. in Stuttgart handelte es sich um eine Neugründung und der überwiegende Teil des bestehenden Patientenstamms war in Ludwigsburg. Man hätte somit einen Shuttleservice für sämtliche Arbeiten einrichten müssen und ob dies sinnvoll gewesen wäre darf bezeifelt werden. Gesichert ist jedoch, dass das Labor Stand 2024 nicht mehr besteht und mutmaßlich sämtliche Gerätschaften in den Jahren 2017 bis 2020 abverkauft wurden.
 
-|             Jahr|        2015|        2016|        2017|        2018|        2019|       2020|       2021|       2020|
-|----------------:|-----------:|-----------:|-----------:|-----------:|-----------:|----------:|----------:|----------:|
-|   Anlagevermögen|127.304,00 €|162.837,88 €|143.509,00 €| 92.406,00 €| 52.474,00 €|   598,00 €|     0,00 €|     0,00 €|
-|Verbindlichkeiten|113.462,18 €|249.769,80 €|669.686,14 €|645.006,85 €|286.137,67 €|44.894,37 €|38.503,74 €|26.966,20 €|
-|     Eigenkapital|529,220,52 €|409.512,81 €| 25.897,83 €|  7.837,24 €|  7.115,32 €|15.282,13 €| 7.577,53 €|22.786,79 €|
-
 **Einschätzung: wenig glaubhaft und nicht plausibel**
 {:.text-align-center}
 
+Ein anderes Bild ergibt sich bei der Betrachtungen der Finanzen der DENTICSDC Dental Clinic GmbH & Co. KG. In 2017 erfolgt ein bemerkenswerte <<Schwenk>> - nahezu sämtliches Eigenkapital wurde in Verbindlichkeiten gegenüber Gesellschaftern <<umgewandelt>>. Dieser <<Kniff>> war so abenteuerlich, dass man in dem Jahresabschluss 2017 keinen Zahlen des Jahresabschlusses 2016 zur Gegenüberstellung aufnahm. Dr. Jacobi entnahm in diesem Jahr fast das gesamte Eigenkapital und liess es sich in Form von <<Schulden>> der Gesellschaft gegenüber Ihr <<gutschreiben>>.
+
+|             Jahr|        2015|        2016|        2017|        2018|        2019|       2020|       2021|       2022|
+|----------------:|-----------:|-----------:|-----------:|-----------:|-----------:|----------:|----------:|----------:|
+|   Anlagevermögen|127.304,00 €|162.837,88 €|143.509,00 €| 92.406,00 €| 52.474,00 €|   598,00 €|     0,00 €|     0,00 €|
+|   Umlaufvermögen|536.387,03 €|525.653,06 €|567.145,17 €|549.932,55 €|166.522,73 €|62.778,68 €|41.971,79 €|52.452,99 €|
+|     Eigenkapital|529,220,52 €|409.512,81 €| 25.897,83 €|  7.837,24 €|  7.115,32 €|15.282,13 €| 7.577,53 €|22.786,79 €|
+|Verbindlichkeiten|113.462,18 €|249.769,80 €|669.686,14 €|645.006,85 €|286.137,67 €|44.894,37 €|38.503,74 €|26.966,20 €|
+{:.table-small} 
+
+Quelle: Unternehmensregister Bilanzen 2015 - 2022 DENTICSDC Dental Clinic GmbH & Co. KG
+{: style="font-size: 0.75rem;"}
+
+Anteil der Forderungen an Gesellschafter vom Umlaufvermögen:  
++ 2020: 43.083,82 €
++ 2021: 41.685,74 €
++ 2022: 49.837,44 €
+
+**Frage:** *Warum würde man alles Eigenkapital in Fremdkapital umwandeln?*
+Zunächst konnten wir keine Antwort auf diese Frage finden. Mögliche Fälle werden z.B. im [Wirtschaftslexikon24](https://www.wirtschaftslexikon24.com/d/umfinanzierung/umfinanzierung.htm){:target="_blank"} summarisch aufgezeigt. Wir haben uns längere Zeit überlegt, was Sinn ergeben könnte und kamen schließlich auf eine (halbwegs) zufriedenstellende Antwort. Dentics wurde 2017 von einer GbR in eine GmbH umgewandelt. Die logische Erklärung war daher, dass es ein oder eine Art Verrechnungskonto zwischen DENTICS und DENTICSDC gab, mit den die zahntechnischen Laborleistungen abgewickelt wurden. 
+
+Die finanzierende Bank gehört - das ist nur unsere Einschätzung - definitiv vor Gericht gestellt und es ergibt nun wirklich Sinn, wieso der <<Geschäftsführer>> Marc Derler dringend das Unternehmen verlassen musste.
 
 
+<br/>
 
 ### Teil IV - Die Notübernahme durch die KZV
 
