@@ -104,7 +104,7 @@ Nun gibt es ein (kleines) Problem, eine GbR muss keine Zahlen veröffentlichen -
 |:-------------------|---------:|--------:|--------:|--------:|--------:|---------:|
 |Jahresüberschuss HGB|-114.094 €|-93.899 €|-99.050 €|-97.080 €|195.011 €|-192.366 €|
 
-Es ist ganz klar ersichtlich, dass Dentics <<nie vom Boden wegkam>> und bis auf das Jahr 2021 permanent ein Verlustgeschäft war. Das Jahr 2021, dazu werden wir später noch kommen, ist ein Sonderfall, da 2021 die Übernahme der Schloßstr. 74 erfolgte und nach unserer Erkenntnis es sich um Buchgewinne durch den Verkauf handelte. Somit ist es fragwürdig ob überhaupt in der gesamten Historie der Dentics Zahnärzte GmbH jemals ein Gewinn aus dem operativen Geschäft erzielt wurde.
+Es ist ganz klar ersichtlich, dass Dentics <<nie vom Boden wegkam>> und bis auf das Jahr 2021 permanent ein Verlustgeschäft war. Das Jahr 2021, dazu werden wir später noch kommen, ist ein Sonderfall, da 2021 die Übernahme der Schloßstr. 74 durch die KZV erfolgte und nach unserer Erkenntnis es sich um Buchgewinne aus dem Verkauf handelte. Somit ist es fragwürdig ob überhaupt in der gesamten Historie der Dentics Zahnärzte GmbH jemals ein Gewinn aus dem operativen Geschäft erzielt wurde.
 
 Ganz anders sah offenbar es in den Jahren vor 2016 aus. Unter der Hand wurde uns mitgeteilt, dass die Finanz- und Ertragslage mehr als zufriedenstellend in den Jahren 2008 bis 2016 war. Angeblich gab es kein Jahr mit einem negativen Cash-Flow bzw. einem negativen <<Jahresüberschuss>>.  Diese Aussagen erscheinen mehr als plausibel, wenn man bedenkt, dass für die Neugründung in Stuttgart Darlehen aufgenommen werden mussten und mit einem negativen Cash-Flow ist es sehr herausfordernd, manche würden sogar sagen unmöglich, für ein <<Suizidprojekt>> in einem mehr als überversorgten Gebiet Darlehen zu erhalten.
 
@@ -200,26 +200,33 @@ Die Strategien von Dr. Jacobi waren absolute Verzweiflungsstrategien. Es ist son
 **Bei einer Recherche ist es essentiell den Sachverhalt aus allen Perspektiven zu betrachten**
 {:.text-align-center}
 
-Der Qualifikation von Herrn Derler nach zu schliessen, sollte er wohl der kaufmännische Leiter bzw. Manager sein und Dr. Jacobi und Dr. Hess waren die (zahn)ärztlichen Leiterinnen. 
+Man muss logische Brüche oder Divergenzen finden und dann muss man diese entsprechend analysieren. Es ist wie bei einem Verhör, man versucht Diskrepanzen, d.h. Widersprüche, zu finden und aufzudecken. So kommen Sie dem wahren Sachverhalt sukzessive näher. Es ist ein iterativer Annäherungsprozess.  
+**Sie kreisen buchstäblich die Wahrheit ein.**
+{:.text-align-center}
 
-Nicht gereicht
+Nach diesem kurzen Exkurs wieder zurück zum eigentlichen Thema: Der Qualifikation von Herrn Derler nach zu schliessen, sollte er wohl der kaufmännische Leiter bzw. Manager sein und Dr. Jacobi und Dr. Hess waren die (zahn)ärztlichen Leiterinnen. Ein möglicher Erklärungsversuch ist somit, dass Projekt war zu ambitioniert gestaltet und ein Indikator dafür ist, dass bereits 2017 ein stiller Teilhaber[^15], der 200.000 € beisteuerte. Spätestens im 4. Quartal 2017 dürfte es absehbar gewesen sein, dass die Dentics GmbH ein Minus (-114.094 € Stand 31.12.2017) erwirtschaften wird. Insofern der stille Teilhaber (möglicherweise) getäuscht wurde bzw. keine weiteren Kapitalspritzen zu erwarten waren und wie man 2018 sah, wurde die stille Beteiligung zurückgezogen[^16]. Die Frage, die sich stellt, ist, wie konnte es zu dieser <<Fehleinschätzung>> kommen?
 
-Verheerend wegen Wegfall von Dr. Hess
+Gleichsam haben wir Zeifel bezüglich der oder des plötzlichen Abgangs von Dr. Hess. *Warum?* Ganz einfach, das ist die [Übersicht der Praxen mit Ihren Standorten](https://www.google.de/maps/dir/Danziger+Str.+40,+71638+Ludwigsburg/Zahnarztpraxis+Dr.+Heidrun+Hess,+Burgunderstra%C3%9Fe+5,+70435+Stuttgart/Schlo%C3%9Fstra%C3%9Fe+74,+70176+Stuttgart/Liststra%C3%9Fe+43,+70180+Stuttgart){:target="_blank"} und es fällt auf, dass nahezu wie mit dem Lineal gezogen die Praxis von Dr. Hess genau mitten auf der Linie zwischen den Stuttgarter Praxen von Dentics damals (Schloßstr. 74 und Liststr. 43) und der ludwigsburger Praxis in der Danziger Str. 40 liegt.
 
-Patienten Stuttgart (anderer KZV-Bezirk) => von langer Hand geplant
+Unser Verdacht ist, dass man eine <<kostspielige Scheidung>> vermeiden wollte und jeweils alle Beteiligten in unterschiedlichen [Planungsbezirken](https://www.kzvbw.de/wp-content/uploads/2021-Uebersicht-BD-S.pdf){:target="_blank"} unterbringen wollte. Das ergibt schon Sinn, denn so ist es anspruchsvoller Schadenersatzansprüche o.ä. gegeneinander durchzusetzen,anders wäre es z.B. gewesen, wenn Dr. Hess eine Praxis im Bereich Stuttgart Mitte oder Ludwigsburg übernommen hatte. Dr. Hess ist in einem Planungsbezirk mit einem Versorgungsgrad von grob 75% inmitten der Dentics-Praxen. Dieser Schachzug ist, das muss man neidlos anerkennen, genial gewesen. Sie konnte so Ihre Patienten weiterversorgen und war vor sämtlichen Ansprüchen mehr oder weniger geschützt.
 
-Kreditampel
+Höchstwahrscheinlich oder vermutlich teilte Dr. Hess dies zu Anfang des letzten Quartals 2017 mit und Dr. Jacobi hätte es in jedem Fall mitbekommen, da es sich um eine <<gemeinsame>> Zulassung handelte. Im letzten Quartal eskalierte die Situation komplett, höchstwahrscheinlich wurde massiv Druck auf Dr. Hess ausgeübt und Dr. Hess machte im Zuge dessen von Ihrem außerordentlichen Kündigungsrecht Gebrauch. Woraufhin Dr. Jacobi die Kündigung möglichst lange zu strecken versuchte (bis zum 30.06.2018) und Dr. Hess die Arbeit zum 31.12.2017 einstellte. Diese untragbare Situation wurde dadurch gelöst, dass die KZV die Übertragung der Zulassung von Dr. Hess auf die neue Praxis zum 01.04.2018 genehmigt und Dr. Jacobi war gewzungen der Kündigung Folge zu leisten, daher trug Sie diese alleine zum 02.05.2018 ein und eine öffentliche Bekannmachung erfolgte zum 21.06.2018, somit fast zum 30.06.2018, damit diese noch einigermassen gesichtswahrend für Dr. Jacobi erschien.
 
-Diese Erklärungsversuche sind schlüssig und ergeben Sinn. 
+Die Folgen für Dr. Jacobi erwiesen sich als verheerend. Mit Dr. Hess schied Ihre ehemalige Parterin aus und dies hat (zwingend) Auswirkungen auf die Kreditwürdigkeit, da Dr. Hess als Parterin (gezwungenermassen) ein Teil des [unternehmerischen Risikos]([Artikel](https://www.medizintechnikmarkt.de/blog/berufsausuebungsgemeinschaft#h2-11){:target="_blank"}) trug. Folglich kam es zu einem weiteren Niedergang in den Folgejahren mangels stillen Teilhabers, der ebenfalls 2018 ausschied und mangels weiteren Partners, der sich nicht mehr auftreiben liess[^17].
 
+**An dieser Stelle nochmals der Verweis auf die öffentlich verfügbaren Zahlen:**
 
-Geld gezahlt für die Praxis
+|Jahr                |      2017|     2018|     2019|     2020|     2021|      2022|
+|:-------------------|---------:|--------:|--------:|--------:|--------:|---------:|
+|Jahresüberschuss HGB|-114.094 €|-93.899 €|-99.050 €|-97.080 €|195.011 €|-192.366 €|
 
-Erpressung
+Die Zahlen sprechen eine eindeutige Sprache und die Entscheidung von Dr. Hess war mit Sicherheit die richtige Entscheidung für Dr. Hess, wenngleich sie Dentics vermutlich <<das Genick brach>>. Wie bereits ausgeführt ist das Jahr 2021, dazu werden wir später noch kommen, ein Sonderfall, da 2021 die Übernahme der Schloßstr. 74 durch die KVZ erfolgte und nach unserer Erkenntnis es sich um Buchgewinne aus dem Verkauf handelte.
 
-Weg aus Ludwigsburg, aber nahe zu Ludwigsburg
+**Erkenntnisse Teil II**
+{:.text-align-center}
 
-Kreditbetrug
+Aus unserer Sicht ist alles <<ausermittelt>>, ob Marc Derler wegen einer möglichen Erpressung oder Nötigung oder ob es überhaupt ein strafbares Delikt seinerseits gab, spielt für die weitere Erkenntnis keine Rolle. Es ist nicht relevant für den Niedergang. Möglicherweise hat sich Dr. Jacobi sogar eine Kreditbetrugers, eventuell gemeinsam mit Dritten, schuldig gemacht, indem Sie versuchte das Ausscheiden von Dr. Hess zu verschleiern und zu verheimlichen. Die tatsächliche Ursache der (aller Wahrscheinlichkeit nach außerordentlichen Kündigung) könnte durchaus eine straf- und zivilrechtliche Relevanz haben. Ein Indikator dafür ist, dass die KZV es offenbar nicht zu einem öffentlichen Verfahren kommen lassen wollte und der Zulassungsverlegung von Dr. Hess stattgab, ein weiterer Indikator dürfte das Ausscheiden des stillen Investors gewesen sein
+{:.text-align-center}
 
 <br/>
 
@@ -259,3 +266,6 @@ Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts dam
 [^12]: Diese Informationen sind zu finden unter Unternehmensregister > Dokumentenansicht > Gesellschaftsvertrag / Satzung / Statut vom 19.01.2017.
 [^13]: Diese Informationen sind zu finden unter Bundesanzeiger > Jahresabschluss zum Geschäftsjahr vom 01.01.2017 bis zum 31.12.2017.
 [^14]: Schriftliche Nachweise liegen vor.
+[^15]: [Bundesanzeiger](https://www.bundesanzeiger.de/){:target="_blank"} Jahresabschluss 2017 Dentics Zahnärzte GmbH
+[^16]: [Bundesanzeiger](https://www.bundesanzeiger.de/){:target="_blank"} Jahresabschluss 2018 Dentics Zahnärzte GmbH
+[^17]: [Unternehmensregister](https://www.unternehmensregister.de/){:target="_blank"} Registerinformationen Dentics Zahnärzte GmbH
