@@ -162,7 +162,7 @@ Eine 0-Beteiligung war schon immer kritisch und dazu finden sich - man könnte f
 
 An diesem Punkt sind wir einen Schritt zurückgegangen und haben die Eröffnungsbilder vom 11.09.2017 der Schloßstr. 74 in Stuttgart analysiert. Auf einem der Bilder ist [Dr. Hess klar zu erkennen](https://scontent-muc2-1.xx.fbcdn.net/v/t31.18172-8/21586708_1451256371608189_2444521868829201031_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Ye3HWUyj2zwAb6TVDrU&_nc_ht=scontent-muc2-1.xx&oh=00_AfC157ZHjx1xIki_jt1ja3OxtMeBkAk8_0MV3XpJ4ceh2g&oe=663CE934){:target="_blank"} und auf dem [Bild am Eingang](https://scontent-muc2-1.xx.fbcdn.net/v/t31.18172-8/21543923_1451255958274897_1579400322539190735_o.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ltr-IxdIc3QAb40gbBS&_nc_ht=scontent-muc2-1.xx&oh=00_AfBhZeysQ2a2DtsXhYNP6nV0Yo_XoJqAbvCrsVz_Gf8jRg&oe=663CC2EF){:target="_blank"} ebenfalls.
 
-Wir haben nun folgenden Sachverhalt, Dr. Hess war am 11.09.2017 bei der Eröffnung dabei, schied nach eigenen Angaben Ende 2017 aus der Partnerschaft mit Dr. Jacobi aus, Dr. Jacobi setzte das Ende eigenmächtig auf den 15.06.2018 fest und die Veröffentlichung fand am 21.06.2018 statt, außerdem wurden weder Marc Derler noch Dr. Heidrun Hess am Stammkapital von Dentics beteiligt und es gab einen stillen Teilhaber.
+Wir haben nun folgenden Sachverhalt, Dr. Hess war am 11.09.2017 bei der Eröffnung dabei, schied nach eigenen Angaben Ende 2017 aus der Partnerschaft mit Dr. Jacobi aus, Dr. Jacobi setzte das Ende eigenmächtig auf den 02.05.2018 fest und die Veröffentlichung fand am 21.06.2018 statt, außerdem wurden weder Marc Derler noch Dr. Heidrun Hess am Stammkapital von Dentics beteiligt und es gab einen stillen Teilhaber.
 
 **Wie lassen sich diese Diskrepanzen erklären**
 {:.text-align-center}
@@ -184,15 +184,14 @@ Frau Dr. Hess muss wohl spätestens im Quartal 3/2017 Verhandlungen mit Dr. Lind
 
 :heavy_check_mark: Dr. Hess gibt an, dass die Partnerschaft mit Dr. Jacobi [2017 endete](https://www.zahnarzt-zuffenhausen.de/ueber-uns/zahnaerzte/){:target="_blank"}, damit war zwingend eine Kündigung 2017 notwendig und zwar unter Einhaltung der Frist (üblicherweise 6 Monate zu einem Quartalsende) die Partnerschaft noch 2017 beendete. Eine Frist wäre ausschliesslich bei einer Kündigung aus besonderem Grund entbehrlich.  
 
-:heavy_check_mark: Die Übernahme der Praxis zum 01.04.2018 deutete darauf hin, dass Dr. Hess von Dr. Jacobi bei der Kündigung blockiert wurde. Nach unseren Informationen handelte es sich um einen Kündigung aus besonderem Grund (außerordentliche Kündigung) und Dr. Jacobi versuchte die Kündigung hinauszuzögern, um Dr. Hess die Übernahme zu erschweren bzw. unmöglich zu gestalten. Nachdem Dr. Hess bereits [seit dem 01.04.2018 in der ehemaligen Praxis Dr. Lindmayr praktizierte](https://web.archive.org/web/20180412113809/http://www.zahnarzt-zuffenhausen.de/){:target="_blank"} und die Zulassung auf diesen Berufsausübungsort bereits von der KZV übertragen worden war, hatte Dr. Jacobi keine andere Wahl mehr, als der Kündigung stattzugeben. Sofern das Datum 
+:heavy_check_mark: Die Übernahme der Praxis zum 01.04.2018 deutete darauf hin, dass Dr. Hess von Dr. Jacobi bei der Kündigung blockiert wurde. Nach unseren Informationen handelte es sich um einen Kündigung aus besonderem Grund (außerordentliche Kündigung) und Dr. Jacobi versuchte die Kündigung hinauszuzögern, um Dr. Hess die Übernahme zu erschweren bzw. unmöglich zu gestalten. Nachdem Dr. Hess bereits [seit dem 01.04.2018 in der ehemaligen Praxis Dr. Lindmayr praktizierte](https://web.archive.org/web/20180412113809/http://www.zahnarzt-zuffenhausen.de/){:target="_blank"} und die Zulassung auf diesen Berufsausübungsort bereits von der KZV übertragen worden war, hatte Dr. Jacobi keine andere Wahl mehr, als der Kündigung stattzugeben. Wir gehen davon aus, dass Dr. Jacobi die (mutmassliche) außerordentliche Kündigung in eine ordentliche Kündigung mit 6 Monaten Kündigungsfrist umdeutete und die Kündigung daher zum 02.11.2017 (02.05.2018 minus 6 Monate) erfolgte. Diese versuchte Dr. Jacobi dann in eine reguläre Kündigung, mutmasslich zum 30.06.2018 umzudeuten. Nachdem Dr. Hess bereits zum 01.04.2018 in der neuen Praxis praktizierte und die Zulassung übergegangen war, wurde der Druck zu groß und Dr. Jacobi musste eigenständig die Entlassung veranlassen, da Dr. Hess (vermutlich) nicht bereit war eine Kündigung nach dem 01.04.2018 zu aktzeptieren - Sie konnte es schlicht nicht. Ebenfalls ist davon auszugehen, dass die (Zahnärzte)Kammer ein Machtwort sprach und der Zulassung an dem neuen Standort von Dr. Hess zustimmmte, um ein eventuelles längeres (zivilrechtliches) Verfahren zu vermeiden.
 
-=> Nur eine logische Erklärung - Arbeiten am neuen Ort ja / Vertuschung einer Kündigung aus wichtigem Grund (und zwar von Dr. Hess)
+Diese Erklärungsversuche sind schlüssig und ergeben Sinn. 
+
 
 Geld gezahlt für die Praxis
 
 Erpressung
-
-Zulassung nur an einer Stelle möglich => Zwang der KZV
 
 Weg aus Ludwigsburg, aber nahe zu Ludwigsburg
 
