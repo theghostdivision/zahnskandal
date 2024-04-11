@@ -21,7 +21,7 @@ Es handelt sich um eine sehr heikle Angelegenheit, die viele Menschen - es sind 
 
 > Lassen Sie sich an dieser Stelle nicht verunsichern, es wird viel behauptet und Sie werden aller Voraussicht nach mit Unwahrheiten und Gerüchten konfrontiert.
 
-**Tatsache ist:** Durch die Neuregelung sind faktisch alle Patienten, die auf öffentliche Verkehrsmittel angewiesen sind von der Notdienstversorgung nachts und am Wochenende abgeschnitten. Das betrifft besonders ältere und sozial schwächere Menschen, aber nicht nur, auch Personen, die z.B. einen älteren "Diesel" haben, dürfen (möglicherweise) nach Stuttgart in die [Umweltzone](https://www.stuttgart.de/leben/mobilitaet/dieselverkehrsverbot/dieselverkehrsverbot.php){:target="_blank"} fahren, können dies jedoch nicht abschätzen und gehen ein Risiko ein, da es sich (möglicherweise) um eine Ausnahme handelt und es ist äußerst umstritten, ob zu den **medizinischen Notfällen** auch zahnmedizinische Notfälle zählen[^2]. Es sind "nur" [128,50 €](https://www.stuttgart.de/leben/mobilitaet/dieselverkehrsverbot/dieselverkehrsverbot.php#was-passiert-bei-verstoessen-gegen-die-diesel-verkehrsverbote){:target="_blank"}, die drohen und es gibt keine Punkte, ärgerlich ist es dennoch.
+**Tatsache ist:** Durch die Neuregelung sind faktisch alle Patienten, die auf öffentliche Verkehrsmittel angewiesen sind von der Notdienstversorgung nachts und am Wochenende abgeschnitten. Das betrifft besonders ältere und sozial schwächere Menschen, aber nicht nur, auch Personen, die z.B. einen älteren "Diesel" haben, dürfen (möglicherweise) nach Stuttgart in die [Umweltzone](https://www.stuttgart.de/leben/mobilitaet/dieselverkehrsverbot/dieselverkehrsverbot.php){:target="_blank"} fahren, können dies jedoch nicht abschätzen und gehen ein Risiko ein, da es sich (möglicherweise) um eine Ausnahme handelt und es ist äußerst umstritten, ob zu den **medizinischen Notfällen** auch zahnmedizinische Notfälle zählen[^2]. Es sind "nur" [128,50€](https://www.stuttgart.de/leben/mobilitaet/dieselverkehrsverbot/dieselverkehrsverbot.php#was-passiert-bei-verstoessen-gegen-die-diesel-verkehrsverbote){:target="_blank"}, die drohen und es gibt keine Punkte, ärgerlich ist es dennoch.
 
 **Es handelt sich um eine Katastrophe mit Ansage**
 {:.text-align-center}
@@ -96,13 +96,13 @@ Die Zahlen sprechen eine sehr deutliche Sprache. Die Zahlen lassen sich weder we
 
 ### Teil II - Der Absturz zum Start
 
-Bereits bei dem Start kam es offenkunding zu einen Absturz oder man könnte sagen, der <<Takeoff>> gelang nie. Es gestaltet sich schwierig auf die finanziellen Daten vor 2017 von Dentics zuzugreifen, da es 2017 zu einer Umfirmierung von zuvor einer GbR zu einer GmbH kam. Wir verweisen auf die exzellente Übersicht von [North Data](https://www.northdata.de){:target="_blank"} zu [Dentics](https://www.northdata.de/Dentics+Zahn%C3%A4rzte+GmbH,+Ludwigsburg/Amtsgericht+Stuttgart+HRB+760091){:target="_blank"}. Der Gesellschaftsvertrag wurde am 18.01.2017 erstellt und das Stammkapital betrug 100.000 €. Bis zu diesem Zeitpunkt wurde Dentics als Gemeinschaftpraxis (überörtliche Berufsausübungsgemeinschaft) in der für Zahnärzte üblichen Form einer Gesellschaft bürgerlichen Rechts (GbR) geführt.
+Bereits bei dem Start kam es offenkunding zu einen Absturz oder man könnte sagen, der <<Takeoff>> gelang nie. Es gestaltet sich schwierig auf die finanziellen Daten vor 2017 von Dentics zuzugreifen, da es 2017 zu einer Umfirmierung von zuvor einer GbR zu einer GmbH kam. Wir verweisen auf die exzellente Übersicht von [North Data](https://www.northdata.de){:target="_blank"} zu [Dentics](https://www.northdata.de/Dentics+Zahn%C3%A4rzte+GmbH,+Ludwigsburg/Amtsgericht+Stuttgart+HRB+760091){:target="_blank"}. Der Gesellschaftsvertrag wurde am 18.01.2017 erstellt und das Stammkapital betrug 100.000€. Bis zu diesem Zeitpunkt wurde Dentics als Gemeinschaftpraxis (überörtliche Berufsausübungsgemeinschaft) in der für Zahnärzte üblichen Form einer Gesellschaft bürgerlichen Rechts (GbR) geführt.
 
 Nun gibt es ein (kleines) Problem, eine GbR muss keine Zahlen veröffentlichen - im Gegensatz zu einer GmbH, die die Zahlen im Bundesanzeiger veröffentlichen muss. Bei der finanziellen Lage von Dentics vor 2017 müssen wir uns also auf Einschätzungen verlassen. Für die Dentics Zahnärzte GmbH sind die Zahlen öffentlich verfügbar und lauten:
 
-|Jahr                |      2017|     2018|     2019|     2020|     2021|      2022|
-|:-------------------|---------:|--------:|--------:|--------:|--------:|---------:|
-|Jahresüberschuss HGB|-114.094 €|-93.899 €|-99.050 €|-97.080 €|195.011 €|-192.366 €|
+|Jahr                |     2017|    2018|    2019|    2020|    2021|     2022|
+|:-------------------|--------:|-------:|-------:|-------:|-------:|--------:|
+|Jahresüberschuss HGB|-114.094€|-93.899€|-99.050€|-97.080€|195.011€|-192.366€|
 
 Es ist ganz klar ersichtlich, dass Dentics <<nie vom Boden wegkam>> und bis auf das Jahr 2021 permanent ein Verlustgeschäft war. Das Jahr 2021, dazu werden wir später noch kommen, ist ein Sonderfall, da 2021 die Übernahme der Schloßstr. 74 durch die KZV erfolgte und nach unserer Erkenntnis es sich um Buchgewinne aus dem Verkauf handelte. Somit ist es fragwürdig ob überhaupt in der gesamten Historie der Dentics Zahnärzte GmbH jemals ein Gewinn aus dem operativen Geschäft erzielt wurde.
 
@@ -138,7 +138,7 @@ Außerdem erschien Dr. Jacobi damals alleine vor dem Notar (Urkundenrolle Nr. 64
 **Kann es noch merkwürdiger werden - ja**
 {:.text-align-center}
 
-In dem Jahreabschluss 2017[^13] der Dentics Zahnärzte GmbH ist eine Position unter Passiva B. Einlagen stiller Gesellschafter mit 200.000 € aufgeführt und 2018 ist diese wieder verschwunden. Mit dem Verschwinden der 2 Mitgeschäftsführer Marc Derler und Dr. Heidrun Hess 2018 war ebenfalls die stille Einlage nicht mehr existent. 
+In dem Jahreabschluss 2017[^13] der Dentics Zahnärzte GmbH ist eine Position unter Passiva B. Einlagen stiller Gesellschafter mit 200.000€ aufgeführt und 2018 ist diese wieder verschwunden. Mit dem Verschwinden der 2 Mitgeschäftsführer Marc Derler und Dr. Heidrun Hess 2018 war ebenfalls die stille Einlage nicht mehr existent. 
 
 Die Merkwürdigkeiten nehmen an dieser Stelle nicht ab, sondern zu. Dr. Hess war [von 2008 bis 2017 Partnerin](https://www.zahnarzt-zuffenhausen.de/ueber-uns/zahnaerzte/){:target="_blank"} von Dr. Jacobi. Die Aussage von Dr. Hess stützt ebenfalls die These, dass die Partnerschaft 2017 endete.
 
@@ -147,7 +147,7 @@ Die Frage bleibt somit weiterhin, wieso versuchte Dr. Jacobi das Ende bis Mitte 
 > **Die Fakten liegen auf dem Tisch**
   1. Dr. Hess schied Ende 2017 aus
   2. Dr. Hess wurde nicht am Stammkapital der Dentics Zahnärzte GmbH beteiligt
-  3. Es gab einen stillen Teilhaber mit einer Einlage von 200.000 € Ende 2017, der 2018 ausschied
+  3. Es gab einen stillen Teilhaber mit einer Einlage von 200.000€ Ende 2017, der 2018 ausschied
 
 Unsere erste Idee war, dass Dr. Hess möglicherweise kalte Füsse bekommen hatte, nachdem Alldent Stuttgart sich im Mai 2017 gegründet hatte[^9], kurze Zeit nach der Gründung der Dentics Zahnärzte GmbH im Januar 2017. Bei intensiverer Recherche konnte sich dieser Verdacht nicht erhärten und diese These konnte gleichfalls die <<Entlassung>> von Marc Derler, zeitgleich mit Dr. Heidrun Hess im Juni 2018, nicht erklären. Die Entlassung vom 02.05.2018 mit Veröffentlichung am 21.06.2018 ergab schlicht keinen Sinn.
 
@@ -204,7 +204,7 @@ Man muss logische Brüche oder Divergenzen finden und dann muss man diese entspr
 **Sie kreisen buchstäblich die Wahrheit ein.**
 {:.text-align-center}
 
-Nach diesem kurzen Exkurs wieder zurück zum eigentlichen Thema: Der Qualifikation von Herrn Derler nach zu schliessen, sollte er wohl der kaufmännische Leiter bzw. Manager sein und Dr. Jacobi und Dr. Hess waren die (zahn)ärztlichen Leiterinnen. Ein möglicher Erklärungsversuch ist somit, dass Projekt war zu ambitioniert gestaltet und ein Indikator dafür ist, dass bereits 2017 ein stiller Teilhaber[^15], der 200.000 € beisteuerte. Spätestens im 4. Quartal 2017 dürfte es absehbar gewesen sein, dass die Dentics GmbH ein Minus (-114.094 € Stand 31.12.2017) erwirtschaften wird. Insofern der stille Teilhaber (möglicherweise) getäuscht wurde bzw. keine weiteren Kapitalspritzen zu erwarten waren und wie man 2018 sah, wurde die stille Beteiligung zurückgezogen[^16]. Die Frage, die sich stellt, ist, wie konnte es zu dieser <<Fehleinschätzung>> kommen?
+Nach diesem kurzen Exkurs wieder zurück zum eigentlichen Thema: Der Qualifikation von Herrn Derler nach zu schliessen, sollte er wohl der kaufmännische Leiter bzw. Manager sein und Dr. Jacobi und Dr. Hess waren die (zahn)ärztlichen Leiterinnen. Ein möglicher Erklärungsversuch ist somit, dass Projekt war zu ambitioniert gestaltet und ein Indikator dafür ist, dass bereits 2017 ein stiller Teilhaber[^15], der 200.000€ beisteuerte. Spätestens im 4. Quartal 2017 dürfte es absehbar gewesen sein, dass die Dentics GmbH ein Minus (-114.094€ Stand 31.12.2017) erwirtschaften wird. Insofern der stille Teilhaber (möglicherweise) getäuscht wurde bzw. keine weiteren Kapitalspritzen zu erwarten waren und wie man 2018 sah, wurde die stille Beteiligung zurückgezogen[^16]. Die Frage, die sich stellt, ist, wie konnte es zu dieser <<Fehleinschätzung>> kommen?
 
 Gleichsam haben wir Zeifel bezüglich der oder des plötzlichen Abgangs von Dr. Hess. *Warum?* Ganz einfach, das ist die [Übersicht der Praxen mit Ihren Standorten](https://www.google.de/maps/dir/Danziger+Str.+40,+71638+Ludwigsburg/Zahnarztpraxis+Dr.+Heidrun+Hess,+Burgunderstra%C3%9Fe+5,+70435+Stuttgart/Schlo%C3%9Fstra%C3%9Fe+74,+70176+Stuttgart/Liststra%C3%9Fe+43,+70180+Stuttgart){:target="_blank"} und es fällt auf, dass nahezu wie mit dem Lineal gezogen die Praxis von Dr. Hess genau mitten auf der Linie zwischen den Stuttgarter Praxen von Dentics damals (Schloßstr. 74 und Liststr. 43) und der ludwigsburger Praxis in der Danziger Str. 40 liegt.
 
@@ -216,9 +216,9 @@ Die Folgen für Dr. Jacobi erwiesen sich als verheerend. Mit Dr. Hess schied Ihr
 
 **An dieser Stelle nochmals der Verweis auf die öffentlich verfügbaren Zahlen:**
 
-|Jahr                |      2017|     2018|     2019|     2020|     2021|      2022|
-|:-------------------|---------:|--------:|--------:|--------:|--------:|---------:|
-|Jahresüberschuss HGB|-114.094 €|-93.899 €|-99.050 €|-97.080 €|195.011 €|-192.366 €|
+|Jahr                |     2017|    2018|    2019|    2020|    2021|     2022|
+|:-------------------|--------:|-------:|-------:|-------:|-------:|--------:|
+|Jahresüberschuss HGB|-114.094€|-93.899€|-99.050€|-97.080€|195.011€|-192.366€|
 
 Die Zahlen sprechen eine eindeutige Sprache und die Entscheidung von Dr. Hess war mit Sicherheit die richtige Entscheidung für Dr. Hess, wenngleich sie Dentics vermutlich <<das Genick brach>>. Wie bereits ausgeführt ist das Jahr 2021, dazu werden wir später noch kommen, ein Sonderfall, da 2021 die Übernahme der Schloßstr. 74 durch die KVZ erfolgte und nach unserer Erkenntnis es sich um Buchgewinne aus dem Verkauf handelte.
 
@@ -245,24 +245,31 @@ Das Labor und die Verwaltung wurden 2017 angeblich nach Stuttgart in die Schloß
 
 Ein anderes Bild ergibt sich bei der Betrachtungen der Finanzen der DENTICSDC Dental Clinic GmbH & Co. KG. In 2017 erfolgt ein bemerkenswerte <<Schwenk>> - nahezu sämtliches Eigenkapital wurde in Verbindlichkeiten gegenüber Gesellschaftern <<umgewandelt>>. Dieser <<Kniff>> war so abenteuerlich, dass man in dem Jahresabschluss 2017 keinen Zahlen des Jahresabschlusses 2016 zur Gegenüberstellung aufnahm. Dr. Jacobi entnahm in diesem Jahr fast das gesamte Eigenkapital und liess es sich in Form von <<Schulden>> der Gesellschaft gegenüber Ihr <<gutschreiben>>.
 
-|             Jahr|        2015|        2016|        2017|        2018|        2019|       2020|       2021|       2022|
-|----------------:|-----------:|-----------:|-----------:|-----------:|-----------:|----------:|----------:|----------:|
-|   Anlagevermögen|127.304,00 €|162.837,88 €|143.509,00 €| 92.406,00 €| 52.474,00 €|   598,00 €|     0,00 €|     0,00 €|
-|   Umlaufvermögen|536.387,03 €|525.653,06 €|567.145,17 €|549.932,55 €|166.522,73 €|62.778,68 €|41.971,79 €|52.452,99 €|
-|     Eigenkapital|529,220,52 €|409.512,81 €| 25.897,83 €|  7.837,24 €|  7.115,32 €|15.282,13 €| 7.577,53 €|22.786,79 €|
-|Verbindlichkeiten|113.462,18 €|249.769,80 €|669.686,14 €|645.006,85 €|286.137,67 €|44.894,37 €|38.503,74 €|26.966,20 €|
+|             Jahr|       2015|       2016|       2017|       2018|       2019|      2020|      2021|      2022|
+|----------------:|----------:|----------:|----------:|----------:|----------:|---------:|---------:|---------:|
+|   Anlagevermögen|127.304,00€|162.837,88€|143.509,00€| 92.406,00€| 52.474,00€|   598,00€|     0,00€|     0,00€|
+|   Umlaufvermögen|536.387,03€|525.653,06€|567.145,17€|549.932,55€|166.522,73€|62.778,68€|41.971,79€|52.452,99€|
+|     Eigenkapital|529,220,52€|409.512,81€| 25.897,83€|  7.837,24€|  7.115,32€|15.282,13€| 7.577,53€|22.786,79€|
+|Verbindlichkeiten|113.462,18€|249.769,80€|669.686,14€|645.006,85€|286.137,67€|44.894,37€|38.503,74€|26.966,20€|
 {:.table-small} 
 
 Quelle: Unternehmensregister Bilanzen 2015 - 2022 DENTICSDC Dental Clinic GmbH & Co. KG
 {: style="font-size: 0.75rem;"}
 
 Anteil der Forderungen an Gesellschafter vom Umlaufvermögen:  
-+ 2020: 43.083,82 €
-+ 2021: 41.685,74 €
-+ 2022: 49.837,44 €
++ 2020: 43.083,82€
++ 2021: 41.685,74€
++ 2022: 49.837,44€
 
 **Frage:** *Warum würde man alles Eigenkapital in Fremdkapital umwandeln?*
-Zunächst konnten wir keine Antwort auf diese Frage finden. Mögliche Fälle werden z.B. im [Wirtschaftslexikon24](https://www.wirtschaftslexikon24.com/d/umfinanzierung/umfinanzierung.htm){:target="_blank"} summarisch aufgezeigt. Wir haben uns längere Zeit überlegt, was Sinn ergeben könnte und kamen schließlich auf eine (halbwegs) zufriedenstellende Antwort. Dentics wurde 2017 von einer GbR in eine GmbH umgewandelt. Die logische Erklärung war daher, dass es ein oder eine Art Verrechnungskonto zwischen DENTICS und DENTICSDC gab, mit den die zahntechnischen Laborleistungen abgewickelt wurden. 
+Zunächst konnten wir keine Antwort auf diese Frage finden. Mögliche Fälle werden z.B. im [Wirtschaftslexikon24](https://www.wirtschaftslexikon24.com/d/umfinanzierung/umfinanzierung.htm){:target="_blank"} summarisch aufgezeigt. Wir haben uns längere Zeit überlegt, was Sinn ergeben könnte und kamen schließlich auf eine (halbwegs) zufriedenstellende Antwort. Dentics wurde 2017 von einer GbR in eine GmbH umgewandelt. Die logische Erklärung war daher, dass es ein oder eine Art Verrechnungskonto zwischen DENTICS und DENTICSDC gab, mit den die zahntechnischen Laborleistungen abgewickelt wurden. Das Problem ist generell, eine GbR arbeitet in der Regel mit einer Einnahmen-/Überschussrechnung und eine KG bilanziert. Der Unterschied liegt hauptsächlich darin, dass bei einer GbR der Zahlungseingang bzw. Zahlungsausgang zählt, während bei einer KG der Zeitpunkt des Entstehens einer Forderung oder eine Verbindlichkeit entscheidend ist.
+
+Ein kleines Beispiel: Unternehmen A führt eine Zahnreinigung durch in 2017 und Patient B zahlt 2018.
+Eine Zahnarztpraxis (GbR) würde die Einnahme 2018 verbuchen, eine Zahnklinik (KG) wüsste die Forderung schon 2017 <<aktivieren>>.
+
+Erstellt nun DENTICSDC Zahnersatz im Jahre 2015 und DENTICS hat im Jahr 2017 noch nicht gezahlt, dann ist die Forderung seit 2015 aktiv und bilanziert, wohingegen bei DENTICS noch nichts, absolut nichts, in den Büchern zu sehen ist. Dadurch stiegen die Verbindlichkeiten in den Jahren 2017 bis 2018 an und wurden in den Jahren 2019 bis 2020 zurückgeführt. Möglicherweise mit Steuererstattungen, da die Ausgaben noch nicht in den Büchern waren und rückwirkend auf die Jahre der Entstehung verteilt wurden. Betrachtet man den GAP zwischen 2016 und 2017, dann handelt es sich um ca. 420 T€.
+
+
 
 Die finanzierende Bank gehört - das ist nur unsere Einschätzung - definitiv vor Gericht gestellt und es ergibt nun wirklich Sinn, wieso der <<Geschäftsführer>> Marc Derler dringend das Unternehmen verlassen musste.
 
