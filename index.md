@@ -164,7 +164,7 @@ An diesem Punkt sind wir einen Schritt zurückgegangen und haben die Eröffnungs
 
 Wir haben nun folgenden Sachverhalt, Dr. Hess war am 11.09.2017 bei der Eröffnung dabei, schied nach eigenen Angaben Ende 2017 aus der Partnerschaft mit Dr. Jacobi aus, Dr. Jacobi setzte das Ende eigenmächtig auf den 02.05.2018 fest und die Veröffentlichung fand am 21.06.2018 statt, außerdem wurden weder Marc Derler noch Dr. Heidrun Hess am Stammkapital von Dentics beteiligt und es gab einen stillen Teilhaber.
 
-**Wie lassen sich diese Diskrepanzen erklären**
+***Wie lassen sich diese Diskrepanzen erklären?***
 {:.text-align-center}
 
 Zunächst muss man sagen, dass es (vermutlich) schwierig geworden wäre Marc Derler am Stammkapital zu beteiligen, da er kein Zahnarzt war und üblicherweise nur Zahnärzte am Stammkapital eines zahnärztlichen Medizinischen Versorgungszentrums (MVZ) beteiligt werden sollten. Dies ist analog zu einer GbR bei Zahnärzten zu sehen, bei dieser ist explizit ausgeschlossen, dass Dritte (Nichtzahnärzte) partizipieren und dies [trifft analog für GmbHs zu](https://www.schwarzundpartner.de/news_media/news_fuer_aerzte/beteiligung_von_berufsfremden_investoren_an_ambulanten_%C3%A4rztlichen_einrichtungen/#:~:text=Finanzinvestoren%20beteiligen%20sich%20an%20MVZs,dem%20sie%20die%20Gesch%C3%A4ftsanteile%20halten.){:target="_blank"} (Anmerkung: Ärzte und Zahnärzte sind synonym zu sehen, denn die Rechtsprechung ist vergleichbar).
@@ -261,7 +261,7 @@ Anteil der Forderungen an Gesellschafter vom Umlaufvermögen:
 + 2021: 41.685,74 €
 + 2022: 49.837,44 €
 
-**Frage:** *Warum würde man alles Eigenkapital in Fremdkapital umwandeln?*
+**Frage:** *Warum würde man alles Eigenkapital in Fremdkapital umwandeln?*  
 Zunächst konnten wir keine Antwort auf diese Frage finden. Mögliche Fälle werden z.B. im [Wirtschaftslexikon24](https://www.wirtschaftslexikon24.com/d/umfinanzierung/umfinanzierung.htm){:target="_blank"} summarisch aufgezeigt. Wir haben uns längere Zeit überlegt, was Sinn ergeben könnte und kamen schließlich auf eine (halbwegs) zufriedenstellende Antwort. Dentics wurde 2017 von einer GbR in eine GmbH umgewandelt. Die logische Erklärung war daher, dass es ein oder eine Art Verrechnungskonto zwischen DENTICS und DENTICSDC gab, mit den die zahntechnischen Laborleistungen abgewickelt wurden. Das Problem ist generell, eine GbR arbeitet in der Regel mit einer Einnahmen-/Überschussrechnung und eine KG bilanziert. Der Unterschied liegt hauptsächlich darin, dass bei einer GbR der Zahlungseingang bzw. Zahlungsausgang zählt, während bei einer KG der Zeitpunkt des Entstehens einer Forderung oder eine Verbindlichkeit entscheidend ist.
 
 Ein kleines Beispiel: Unternehmen A führt eine Zahnreinigung durch in 2017 und Patient B zahlt 2018.
@@ -271,17 +271,24 @@ Erstellt nun DENTICSDC Zahnersatz im Jahre 2015 und DENTICS hat im Jahr 2017 noc
 
 Nochmals, es handelt sich um einen plausible Hypothese und die Jahre der Entstehung sind ebenfalls hypothetisch. Die Entstehung muss vor dem Jahr 2017 stattgefunden haben, da 2017 der [<<Eigenkapital für Schulden-Tausch>>](https://www.wirtschaftslexikon24.com/d/umfinanzierung/umfinanzierung.htm){:target="_blank"} stattfand und bei einer regulären Verjährung von 3 Jahren ist ein Zeitraum von 2014 bis 2016 realitisch, er kann jedoch größer ausfallen, wenn auf den Einspruch der Verjährung verzichtet wurde. Undenkbar wäre dies nicht, da in diesem Fall sowohl Schulder als auch Kreditor Dr. Jacobi - Sie als alleiniger Gesellschafter bei DENTICSDC und Parterin bei DENTICS noch in der Form einer GbR vor 2017 - war und es ist nicht statthaft gegen sich selbst den Einspruch der Verjährung zu erheben. Genau genommen ist das Unfug, denn Sie könnten sich so selbst einen Forderung stellen und nach Ablauf der 3-Jahresfrist die Zahlung verweigern, das ist einfach nur Humbug.
 
-Der <<Eigenkapital für Schulden-Tausch>> entspricht im weitesten Sinne dem Beispiel aus dem [Wirtschaftslexikon24](https://www.wirtschaftslexikon24.com/d/umfinanzierung/umfinanzierung.htm){:target="_blank"}: *Ein Kommanditist scheidet aus und stellt sein Auseinandersetzungsguthaben der Gesellschaft als Darlehen zur Verfügung*
+Der <<Eigenkapital für Schulden-Tausch>> entspricht im weitesten Sinne dem Beispiel aus dem [Wirtschaftslexikon24](https://www.wirtschaftslexikon24.com/d/umfinanzierung/umfinanzierung.htm){:target="_blank"}: *Ein Kommanditist scheidet aus und stellt sein Auseinandersetzungsguthaben der Gesellschaft als Darlehen zur Verfügung.*
 
 In diesem Fall scheidet quasi die DENTICS GbR in Form von Dr. Jacobi (und eines mutmasslichen Verrechnungskontos) aus, denn Sie geht in die DENTICS GmbH über und die DENTICSDC erhält das Guthaben als Darlehen.
 
-**Frage:** *Warum ist diese Vorgehensweise zwingend?*
-Insofern bei der DENTICS GbR von Vorjahren noch Verrechnungskontodifferenzen bestehen, für die bereits Steuererklärungen erstellt wurden, ist diese Vorgehensweise quasi zwingend notwendig, denn erst durch eine erneute Steuererklärung, der das Finanzamt zustimmen müsste, wäre eine "Rückübertragung" in diese "Vorjahre" möglich. Man muss ganz klar sagen, es handelt sich hier um einen <<**Totalschaden mit Ansage**>>, denn man hätte durchaus 2016, im Jahr vor der Umwandlung der Dentics in eine GmbH, sämtliche <<Altlasten>> *lege artis* beseitigen können. Dies wäre möglich gewesen, jedoch hätte sich dies (vermutlich) steuerlich nicht ähnlich vorteilhaft dargestellt und es wäre sowohl die Kapitalbasis für die Investition in die neue Praxis in der Schloßstr. 74 in Stuttgart <<weggewesen>> als auch hätte dies (aller Wahrscheinlichkeit nach) eine Investition einer Bank bzw. eines Investors verhindert.
+**Frage:** *Warum ist diese Vorgehensweise zwingend?*  
+Insofern bei der DENTICS GbR von Vorjahren noch Verrechnungskontodifferenzen bestehen, für die bereits Steuererklärungen erstellt wurden, ist diese Vorgehensweise quasi zwingend notwendig, denn erst durch eine erneute Steuererklärung, der das Finanzamt zustimmen müsste, wäre eine "Rückübertragung" in diese "Vorjahre" möglich. Man muss ganz klar sagen, es handelt sich hier um einen <<**Totalschaden mit Ansage**>>, denn man hätte durchaus 2016, im Jahr vor der Umwandlung der Dentics in eine GmbH, sämtliche <<Altlasten>> *lege artis* beseitigen können. Dies wäre möglich gewesen, jedoch hätte sich dies (vermutlich) steuerlich nicht ähnlich vorteilhaft dargestellt und es hätte sowohl die fragile Kapitalbasis für die Investition in die neue Praxis in der Schloßstr. 74 in Stuttgart <<zerstört>> als auch hätte dies (aller Wahrscheinlichkeit nach) eine Investition einer Bank bzw. eines Investors verhindert.
 
+**Frage:** *Warum wäre die fragile Kapitalbasis zerstört worden?*
+Die Verbindlichkeiten, die zurückgeführt werden mussten betrugen zwischen ca. 420.000 € und 600.000 €[^18]. Diese Verbindlichkeiten waren quasi <<Off The Table>>, also ausgelagert, bei der DENTICS GmbH 2017[^19].
 
+Die steuerliche Auswirkung ist eindeutig, denn der Betrag erhöht die Ausgaben und reduziert damit den Überschuss bei einer Einnahmen-/Überschussrechnung. Insofern dies zum Beispiel in einem Jahr - sagen wir 2016 - der Fall gewesen wäre, hätte man den Gewinn von hypothethischen 600.000 € alternativ 420.000 € auf 0 € reduzieren können. Steuerlich günstiger wäre es natürlich gewesen, wenn man dies auf 3 oder 4 Jahre verteil hätte, denn dann hätte die gesamte Reduktion im <<Höchststeuersatz>> stattgefunden bei einem Single.
 
+In der Variante 1 erfolgt die Zahlung sämtlicher offener Forderungen der Vorjahre inklusive der gesamten Forderungen des Jahres 2016 in 2016.
+In der Variante 2 erfolgt die Zahlung sämtlicher offener Forderung (2016 und früher) in den Jahren 2019 und 2020 mit Steuererstattungen, die in diesen Jahren ausgezahlt worden und die Rückdatierung erfolgt steuerlich auf die Jahre 2014 bis 2016[^20].
 
+|Steuererstattungen|Rückdatierung|
 
+Steuerliche Auswirkung - unklare steuerlicher Sachverhalt Investor/Bank
 
 Die finanzierende Bank gehört - das ist nur unsere Einschätzung - definitiv vor Gericht gestellt und es ergibt nun wirklich Sinn, wieso der <<Geschäftsführer>> Marc Derler dringend das Unternehmen verlassen musste.
 
@@ -301,7 +308,7 @@ https://www.northdata.de/Dentics+Zahn%C3%A4rzte+GmbH,+Ludwigsburg/Amtsgericht+St
 Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts damit zu tun, 10 Jahre später und danach einen Zahnskandal für die Bevölkerung zu 
 
 *[apoBank]: Deutsche Apotheker- und Ärztebank
-*[DENTICS]: DENTICS Zahnärzte GmbH
+*[DENTICS]: Bis Anfang 2017 DENTICS GbR / ab Anfang 2017 DENTICS Zahnärzte GmbH
 *[DENTICSDC]: DENTICSDC Dental Clinic GmbH & Co. KG
 *[GbR]: Gesellschaft bürgerlichen Rechts
 *[KZV]: Kassenzahnärztliche Vereinigung
@@ -325,3 +332,6 @@ Es war (möglicherweise) etwas von Anfang an geplant, aber dies hatte nichts dam
 [^15]: [Bundesanzeiger](https://www.bundesanzeiger.de/){:target="_blank"} Jahresabschluss 2017 Dentics Zahnärzte GmbH
 [^16]: [Bundesanzeiger](https://www.bundesanzeiger.de/){:target="_blank"} Jahresabschluss 2018 Dentics Zahnärzte GmbH
 [^17]: [Unternehmensregister](https://www.unternehmensregister.de/){:target="_blank"} Registerinformationen Dentics Zahnärzte GmbH
+[^18]: Anstieg der Verbindlichkeiten (und Reduktion des Eigenkapitals) DENTICSDC 2016 auf 2017 ca. 420.000 € (-249.769,80 € - -669.686,14 €) und Rückführung der Verbindlichkeiten 2017 bis 2020 ca. 600.000 € (-669.686,14 € - -44.894,37 €).
+[^19]: [Bundesanzeiger](https://www.bundesanzeiger.de/){:target="_blank"} Jahresabschluss 2017 Dentics Zahnärzte GmbH
+[^20]: Dies löst noch einen weiteren Effekt aus, denn das Finanzamt schuldet Ihnen in diesem Fall respektable [Zinsen](https://www.finanztip.de/zinsen-auf-steuererstattungen/#:~:text=Der%20Zinssatz%20f%C3%BCr%20Nachzahlungs%2D%20und,mit%20der%20Steuererkl%C3%A4rung%20zu%20warten){:target="_blank"} für die Jahre 2014 / 2015 / 2016 bis zu den Jahren 2019 / 2020.
