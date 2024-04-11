@@ -278,15 +278,34 @@ In diesem Fall scheidet quasi die DENTICS GbR in Form von Dr. Jacobi (und eines 
 **Frage:** *Warum ist diese Vorgehensweise zwingend?*  
 Insofern bei der DENTICS GbR von Vorjahren noch Verrechnungskontodifferenzen bestehen, für die bereits Steuererklärungen erstellt wurden, ist diese Vorgehensweise quasi zwingend notwendig, denn erst durch eine erneute Steuererklärung, der das Finanzamt zustimmen müsste, wäre eine "Rückübertragung" in diese "Vorjahre" möglich. Man muss ganz klar sagen, es handelt sich hier um einen <<**Totalschaden mit Ansage**>>, denn man hätte durchaus 2016, im Jahr vor der Umwandlung der Dentics in eine GmbH, sämtliche <<Altlasten>> *lege artis* beseitigen können. Dies wäre möglich gewesen, jedoch hätte sich dies (vermutlich) steuerlich nicht ähnlich vorteilhaft dargestellt und es hätte sowohl die fragile Kapitalbasis für die Investition in die neue Praxis in der Schloßstr. 74 in Stuttgart <<zerstört>> als auch hätte dies (aller Wahrscheinlichkeit nach) eine Investition einer Bank bzw. eines Investors verhindert.
 
-**Frage:** *Warum wäre die fragile Kapitalbasis zerstört worden?*
+**Frage:** *Warum wäre die fragile Kapitalbasis zerstört worden?*  
 Die Verbindlichkeiten, die zurückgeführt werden mussten betrugen zwischen ca. 420.000 € und 600.000 €[^18]. Diese Verbindlichkeiten waren quasi <<Off The Table>>, also ausgelagert, bei der DENTICS GmbH 2017[^19].
 
 Die steuerliche Auswirkung ist eindeutig, denn der Betrag erhöht die Ausgaben und reduziert damit den Überschuss bei einer Einnahmen-/Überschussrechnung. Insofern dies zum Beispiel in einem Jahr - sagen wir 2016 - der Fall gewesen wäre, hätte man den Gewinn von hypothethischen 600.000 € alternativ 420.000 € auf 0 € reduzieren können. Steuerlich günstiger wäre es natürlich gewesen, wenn man dies auf 3 oder 4 Jahre verteil hätte, denn dann hätte die gesamte Reduktion im <<Höchststeuersatz>> stattgefunden bei einem Single.
 
 In der Variante 1 erfolgt die Zahlung sämtlicher offener Forderungen der Vorjahre inklusive der gesamten Forderungen des Jahres 2016 in 2016.
-In der Variante 2 erfolgt die Zahlung sämtlicher offener Forderung (2016 und früher) in den Jahren 2019 und 2020 mit Steuererstattungen, die in diesen Jahren ausgezahlt worden und die Rückdatierung erfolgt steuerlich auf die Jahre 2014 bis 2016[^20].
+In der Variante 2 erfolgt die Zahlung sämtlicher offener Forderung (2016 und früher) in den Jahren 2019 und 2020 mit Steuererstattungen, die in diesen Jahren ausgezahlt worden und die Rückdatierung erfolgt zu gleichen Teilen steuerlich auf die Jahre 2014 bis 2016[^20]. Die Zinsgutschriften durch das Finanzamt wurden approximiert.
 
-|Steuererstattungen|Rückdatierung|
+Annahme ein gleichbleibender Überschuss von 600.000 € in den Jahren 2014 bis 2016, der sich entsprechend der Variante um jeweils 600.000 € reduziert.
+
+|600.000 € |     2014|     2015|     2016|Rückerstattung|Zinsgutschrift|   Gesamt|
+|:---------|--------:|--------:|--------:|-------------:|-------------:|--------:|
+|Variante 1|600.000 €|600.000 €|      0 €|     267.940 €|           0 €|267.940 €|
+|Variante 2|400.000 €|400.000 €|400.000 €|     284.850 €|      70.000 €|354.850 €|
+
+Annahme ein gleichbleibender Überschuss von 420.000 € in den Jahren 2014 bis 2016, der sich entsprechend der Variante um jeweils 420.000 € reduziert.
+
+|420.000 € |     2014|     2015|     2016|Rückerstattung|Zinsgutschrift|   Gesamt|
+|:---------|--------:|--------:|--------:|-------------:|-------------:|--------:|
+|Variante 1|420.000 €|420.000 €|      0 €|     182.485 €|           0 €|182.485 €|
+|Variante 2|280.000 €|280.000 €|280.000 €|     199.395 €|      50.000 €|249.395 €|
+ 
+Die Differenz ist gravierend, es sind  ca. 1/3 mehr - **netto**. Sofern es sich nur um 420.000 € gehandelt hätte würde die relative Differenz noch höher ausfallen und bei einer Rückdatierung z.B. bis 2012 oder 2013 würde der Zinseffekt gleichsam höher ausfallen. Man erhält dann bis zu 60% mehr - **netto**.
+
+**Hinweis:** Die Beispiele dienten ausschließlich der Verdeutlichung des Effektes, die Aufteilung erfolgt nicht ebenmässig in der Realität, aber man kann annehmen, dass der erstellte Zahnersatz nicht extremen Schwankungen unterliegt, bei einem zahntechnischen Labor, dass eine <<eigene Praxis>> als Abnehmer hat. Bei den realen Zahlen wird es Abweichungen geben, die Frage ist nur, wie hoch diese tatsächlich ausgefallen sind.
+
+
+
 
 Steuerliche Auswirkung - unklare steuerlicher Sachverhalt Investor/Bank
 
