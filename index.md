@@ -17,7 +17,7 @@ cover: true
 
 **Vorwort:**
 
-Es handelt sich um eine sehr heikle Angelegenheit, die viele Menschen - es sind ca. 2.8 Mio. Menschen[^1] betrifft und für diese die zahnmedizinische Notversorgung zum Teil dramatisch verschlechtert hat. Die Politik und die KZV sind daher extrem angespannt bei diesem Thema und reagieren maximal <<dünnhäutig>>.
+Es handelt sich um eine sehr heikle Angelegenheit, die viele Menschen - es sind **ca. 2.8 Mio. Menschen, die es in der Metropolregion Stuttgart[^1] betrifft** und für diese die zahnmedizinische Notversorgung zum großen Teil dramatisch verschlechtert hat. Die Politik und die KZV sind daher extrem angespannt bei diesem Thema und reagieren maximal <<dünnhäutig>>.
 
 > Lassen Sie sich an dieser Stelle nicht verunsichern, es wird viel behauptet und Sie werden aller Voraussicht nach mit Unwahrheiten und Gerüchten konfrontiert.
 
@@ -304,8 +304,26 @@ Die Differenz ist gravierend, es sind  ca. 1/3 mehr - **netto**. Sofern es sich 
 
 **Hinweis:** Die Beispiele dienten ausschließlich der Verdeutlichung des Effektes, die Aufteilung erfolgt nicht ebenmässig in der Realität, aber man kann annehmen, dass der erstellte Zahnersatz nicht extremen Schwankungen unterliegt, bei einem zahntechnischen Labor, dass eine <<eigene Praxis>> als Abnehmer hat. Bei den realen Zahlen wird es Abweichungen geben, die Frage ist nur, wie hoch diese tatsächlich ausgefallen sind.
 
+**Erkenntnisse Teil III**
+{:.text-align-center}
 
+So langsam fügen sich die einzelnen Puzzleteile zusammen. Die Theorie lautet nun, durch die Rückdatierung war die 2017 gegründete DENTICS GmbH mit massiven Unwägbarkeiten belastet, es schwebte sozusagen ein Damokleschwert über ihr. Hätte zum Beispiel das Finanzamt in der Prüfung die Rückdatierung abgelehnt, hätte ohne eine Steuergutschrift die offenen Zahlungen an die DENTICSDC aus dem Netto geleistet werden, da DENTICS in den Jahren ab 2017 (abgesehen von dem Jahr 2021) nur Verluste erwirtschaftete. Das Minus hätte in diesem Fall vermutlich -250.000 € bis -350.000 € betragen (vgl. oben). Die Vermutung liegt nahe, dass die Prüfung 2017 noch nicht abgeschlossen war und selbst bei einer abgeschlossenen Prüfung ist fragwürdig, ob zu erwartende Steuerrückerstattungen plus Zinsgutschriften beleihbar sind. Dieser Sachverhalt wäre eine plausible Erklärung für das plötzliche Ausscheiden von Dr. Hess, dass in [Teil II](https://www.zahnskandal.info/#teil-ii---der-absturz-zum-start){:target="_blank"} ausführlich diskutiert wurde.
+{:.text-align-center}
 
+*Handelt es sich hier zusätzlich um einen Kreditbetrug?*
+{:.text-align-center}
+
+Das wäre naheliegend diesem Sachverhalt nachzugehen, denn sowohl Dr. Hess als auch Dr. Jacobi dürften davon Kenntnis gehabt haben. Beide müssen zwingend die Jahresabschlüsse der DENTICS GBR bis 2016 inklusive unterzeichnet haben und damit hafteten sie ebenfalls für dieses. Nach dem jetzigen Kenntnisstand war Dr. Hess dieser Sachverhalt (zumindest) bekannt, da sie ebenfalls Zahnersatz produziert hatte und Sie ebenfalls dafür verantwortlich war, dass die Rechnungen Ihres Zahnersatz bezahlt hätten werden müssen, außerdem hatte Sie Einblick in die Bücher der DENTICS GbR. Wie gesagt, es ist hypothethisch und die Wahrscheinlichkeit, dass Dr. Jacobi oder Dr. Hess die Wahrheit sagen werden ist extrem gering, da sie sich sonst selbst belasten könnten und vermutlich auch würden. In unserem besagten Fall konnte Dr. Jacobi die <<Aussenstände>> beim Finanzamt (vermutlich) nicht zeitnah eintreiben bzw. klären. Somit zog Dr. Hess im lezten Quartal 2017 die <<Reissleine>>, da Sie ansonsten als Mitgeschäftsführerin von der DENTICS GmbH als Nachfolgerin der DENTICS GbR für einen möglichen Verlust von 250.000 € bis 350.000 € - **netto** - mitgehaftet hätte. Betrachten Sie bitte Anfangssituation Dadurch triggerte Dr. Hess auf breiter Fläche einen Maximalschaden.
+
+implizit / explizit
+
+Logitsche Konsequenz bis
+
+Rolle der KZV
+
+Dr. Hess Logik mitgefangen => Mitgehangen
+
+Mithaftung /KZV / Bank /etc.
 
 Steuerliche Auswirkung - unklare steuerlicher Sachverhalt Investor/Bank
 
