@@ -1,6 +1,6 @@
 # General settings
 # ---------------------------------------------------------------------------------------
-url:                  https://www.zahnskandal.info
+url:                  https://www.erbschuld.info
 baseurl:              ""
 
 # Language of your content in 2-letter code, e.g.: en, de.
@@ -8,12 +8,12 @@ baseurl:              ""
 lang:                  de
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Der Zahnskandal
+title:                 Die Erbschulden von Ludwigsburg
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Erfahren Sie alles über Zahnskandal in der Metropolregion Stuttgart und was man Ihnen bewußt verheimlicht!
+  Lernen Sie den Mythos des Kinderns und der Erbschulden von Ludwigsburg kennen!
 
 # A shorter description for the sidebar.
 tagline:               <span class="home-message-special">Exklusiv die Hintergründe!</span><br/><br/>

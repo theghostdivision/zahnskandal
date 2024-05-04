@@ -313,7 +313,15 @@ So langsam fügen sich die einzelnen Puzzleteile zusammen. Die Theorie lautet nu
 *Handelt es sich hier zusätzlich um einen Kreditbetrug?*
 {:.text-align-center}
 
-Das wäre naheliegend diesem Sachverhalt nachzugehen, denn sowohl Dr. Hess als auch Dr. Jacobi dürften davon Kenntnis gehabt haben. Beide müssen zwingend die Jahresabschlüsse der DENTICS GBR bis 2016 inklusive unterzeichnet haben und damit hafteten sie ebenfalls für dieses. Nach dem jetzigen Kenntnisstand war Dr. Hess dieser Sachverhalt (zumindest) bekannt, da sie ebenfalls Zahnersatz produziert hatte und Sie ebenfalls dafür verantwortlich war, dass die Rechnungen Ihres Zahnersatz bezahlt hätten werden müssen, außerdem hatte Sie Einblick in die Bücher der DENTICS GbR. Wie gesagt, es ist hypothethisch und die Wahrscheinlichkeit, dass Dr. Jacobi oder Dr. Hess die Wahrheit sagen werden ist extrem gering, da sie sich sonst selbst belasten könnten und vermutlich auch würden. In unserem besagten Fall konnte Dr. Jacobi die <<Aussenstände>> beim Finanzamt (vermutlich) nicht zeitnah eintreiben bzw. klären. Somit zog Dr. Hess im lezten Quartal 2017 die <<Reissleine>>, da Sie ansonsten als Mitgeschäftsführerin von der DENTICS GmbH als Nachfolgerin der DENTICS GbR für einen möglichen Verlust von 250.000 € bis 350.000 € - **netto** - mitgehaftet hätte. Betrachten Sie bitte Anfangssituation Dadurch triggerte Dr. Hess auf breiter Fläche einen Maximalschaden.
+Das wäre naheliegend diesem Sachverhalt nachzugehen, denn sowohl Dr. Hess als auch Dr. Jacobi dürften davon Kenntnis gehabt haben. Beide müssen zwingend die Jahresabschlüsse der DENTICS GBR bis 2016 inklusive unterzeichnet haben und damit hafteten sie ebenfalls für dieses. Nach dem jetzigen Kenntnisstand war Dr. Hess dieser Sachverhalt (zumindest) bekannt, da sie ebenfalls Zahnersatz produziert hatte und Sie ebenfalls dafür verantwortlich war, dass die Rechnungen Ihres Zahnersatz bezahlt hätten werden müssen, außerdem hatte Sie Einblick in die Bücher der DENTICS GbR. Wie gesagt, es ist hypothethisch und die Wahrscheinlichkeit, dass Dr. Jacobi oder Dr. Hess die Wahrheit sagen werden ist extrem gering, da sie sich sonst selbst belasten könnten und vermutlich auch würden. In unserem besagten Fall konnte Dr. Jacobi die <<Aussenstände>> beim Finanzamt (vermutlich) nicht zeitnah eintreiben bzw. klären. Somit zog Dr. Hess im lezten Quartal 2017 die <<Reissleine>>, da Sie ansonsten als Mitgeschäftsführerin von der DENTICS GmbH als Nachfolgerin der DENTICS GbR für einen möglichen Verlust von 250.000 € bis 350.000 € - **netto** - mitgehaftet hätte. Betrachten Sie bitte Anfangssituation, Dr. Hess war nicht am Stammkapital der DENTIC GmbH beteiligt,
+{:.text-align-center}
+
+> §3 Stammkapital, Stammeinlagen
+  (2) Vom Stammkapital übernimmt
+  Frau Dr. Anne Katharina Jacobi-Haumer, geb. am 13.07.1977, wohnhaft in Ludwigsburg einen Geschäftsanteil mit dem Nennwert von 100.000 Euro. (Geschäftsanteil Nr. 1).
+
+dadurch konnte Sie gefahrlos aussteigen. Durch Ihren Ausstieg triggerte Dr. Hess auf breiter Fläche einen Maximalschaden.
+{:.text-align-center}
 
 implizit / explizit
 
