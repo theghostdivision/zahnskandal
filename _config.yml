@@ -8,7 +8,8 @@ baseurl:              ""
 lang:                  de
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Die Erbschulden von Ludwigsburg
+title:                 Die Erbschulden
+breadcrumb:            Erbschulden
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -16,9 +17,10 @@ description:           >
   Lernen Sie den Mythos des Kinderns und der Erbschulden von Ludwigsburg kennen!
 
 # A shorter description for the sidebar.
-tagline:               <span class="home-message-special">Exklusiv die Hintergründe!</span><br/><br/>
-                       Der Zahnskandal in der Metropolregion Stuttgart - erfahren Sie exklusiv die verheimlichten skandalösen Hintergründe warum Patienten nun bis zu 100km zum Notdienst fahren müssen.<br/><br/>
-                       Lernen Sie die katastrophalen Ereignisse kennen, die innerhalb kürzester Zeit zum Zusammenbruch der jahrelang funktionierenden lokalen zahnärztlichen Notversorgung führten - zur Rettung eines feministisches Wolkenkuckucksheims!
+tagline:               <span class="home-message-special">Und das üble Kindern!</span><br/><br/>
+                       In einigen Ständten in Deutschland herrscht die üble Praxis des "Kinderns" noch vor!<br/>
+                       Dabei handelt es sich um eine Technik aus der Nazizeit. Bio-Deutsche werden noch im Kindesalter sterilisiert (vasektorimiert), damit sie später keine eingenen Kinder bekommen können und Kinder "geschenkt" bekommen müssen, zur Abzahlung der "Erbschulden".<br/>
+                       Die Schulden des 2. Weltkrieges sind mit der deutschen Einheit bezahlt worden und die Kriegsschulden des 1. Weltkrieges sind seit 2020 [beglichen](https://www.stern.de/politik/geschichte/rueckzahlung-abgeschlossen-deutschland-hat-keine-kriegsschulden-mehr-3888104.html){:target="_blank"}.
 
 # A list of keywords for your blog
 keywords:              []
@@ -32,7 +34,7 @@ logo:                  /assets/img/avatars/destroyed-crown-tooth.png
 author:
   # Used by `jekyll-feed`:
   name:                The Nick
-  email:               <ghost@zahnskandal.info>
+  email:               <ghost@erbschuld.info>
   picture:             /assets/img/avatars/clever-devil.png
   social:
     twitter:             Save_The_Nick
@@ -155,7 +157,7 @@ kramdown:
 
 algolia:
   application_id: "6H2JGBG86V"
-  index_name: "zahnskandal"
+  index_name: "erbschuld"
   search_only_api_key: "6e146271852acd8912a4f1fda7613b2e"
 
 lightbox: true
@@ -169,7 +171,7 @@ comments:
 # Make sure all variables are set properly. Check below link for detail.
 # https://utteranc.es/
 utterances:
-  repo:                "theghostdivision/zahnskandal"
+  repo:                "theghostdivision/erbschuld"
   issue-term:          "pathname"
   label:               "Comments"
   theme:               "dark-blue"
@@ -178,7 +180,7 @@ utterances:
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
 giscus:
-  repo:                "theghostdivision/zahnskandal"
+  repo:                "theghostdivision/erbschuld"
   repo-id:             "R_kgDOLpUu4g"
   category:            "General"
   category-id:         "DIC_kwDOLpUu4s4CegAG"
