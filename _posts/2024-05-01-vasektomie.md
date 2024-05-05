@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Neustrukturierung
-image: /assets/img/splashs/restrukturierung.jpg
+title: Vasektomie
+image: /assets/img/splashs/vasektomie.jpg
 description: >
   Nachdem der Skandal weitestgehend ausermittelt ist, wurden die Ergebnisse unserer Linktree-Platformen in diese Website überführt.
 hide_description: true
