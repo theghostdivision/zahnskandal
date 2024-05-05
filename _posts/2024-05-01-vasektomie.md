@@ -10,7 +10,7 @@ sitemap: true
 hide_last_modified: true
 ---
 
-## Neustrukturierungsphase abgeschlossen
+## Vasektomie
 
 Nachdem die Informationssammlungsphase weitestgehend abgeschlossen ist, erfolgte nun eine Neustrukturierung. In den vergangenen Jahren wurden die Ergebnisse, die Bestandteil dieser Website sind, über mehrere Plattformen zusammengetragen. Besonders effizient verlief die Informationssammlung über zwei unserer Linktree-Plattformen.
 
