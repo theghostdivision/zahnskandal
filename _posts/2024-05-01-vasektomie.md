@@ -3,7 +3,7 @@ layout: post
 title: Vasektomie
 image: /assets/img/splashs/vasektomie.jpg
 description: >
-  Nachdem der Skandal weitestgehend ausermittelt ist, wurden die Ergebnisse unserer Linktree-Platformen in diese Website überführt.
+  Erhalten Sie grundlegende Informationen zur Vasektomie und wie Sie erkennen können, ob Sie ggf. als Kind "zwangsvasektomiert" wurden.
 hide_description: true
 comments: true
 sitemap: true

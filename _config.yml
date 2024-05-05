@@ -181,9 +181,9 @@ utterances:
 # https://giscus.vercel.app/
 giscus:
   repo:                "theghostdivision/erbschuld"
-  repo-id:             "R_kgDOLpUu4g"
+  repo-id:             "R_kgDOL1eRhg"
   category:            "General"
-  category-id:         "DIC_kwDOLpUu4s4CegAG"
+  category-id:         "DIC_kwDOL1eRhs4CfKAz"
   mapping:             "pathname"
   reaction-enabled:    "1"
   theme:               "light_protanopia"

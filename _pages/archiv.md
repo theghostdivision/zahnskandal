@@ -11,7 +11,7 @@ permalink: /archiv/
 
 Das Archiv kann entweder per GIT[^1] geclont oder als ZIP heruntergeladen werden.
 
-GIT: `es handelt sich um ein - aus naheliegenden Gründen - privates GIT-Repository`<br/>
+GIT: Clonen mit HTTPS `git clone https://github.com/theghostdivision/erbschuld.git` wahlweise SSH<br/>
 ZIP: [Archiv.zip](https://archiv.erbschuld.info/main.zip)
 
 ### Lokale Ausführung
